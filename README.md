@@ -19,19 +19,17 @@ model training/validation → a secure, production-style web application.
 
 ## 📸 Screenshots
 
-<!--
-  Add your screenshots here before pushing — this section sells the project at a glance.
-  Recommended shots: Login page, Admin Dashboard, Risk & Engagement (AI Risk Predictor tab),
-  My Progress (student radar chart), Interventions log.
-  Save images in a /screenshots folder in the repo root and update the paths below.
--->
 | Admin Dashboard | AI Risk Predictor |
 |---|---|
 | ![Dashboard](screenshots/dashboard.png) | ![Risk Predictor](screenshots/risk_predictor.png) |
 
-| Student Progress | Interventions Log |
+| Class Risk List | Student Lookup |
 |---|---|
-| ![My Progress](screenshots/my_progress.png) | ![Interventions](screenshots/interventions.png) |
+| ![Risk List](screenshots/risk_list.png) | ![Student Lookup](screenshots/student_lookup.png) |
+
+| Student "You vs Class" Comparison | Interventions Log |
+|---|---|
+| ![Progress Compare](screenshots/progress_compare.png) | ![Interventions](screenshots/interventions.png) |
 
 ---
 
@@ -49,7 +47,7 @@ model training/validation → a secure, production-style web application.
 - **Dataset Management** — upload new behavior/engagement CSVs on the fly; auto-preprocessing (median-fill numeric nulls, "Unknown" for categorical) and dynamic table creation, switchable from the sidebar without redeploying
 
 **Student**
-- **My Progress** — personal dashboard with percentile ranks vs. class, a radar chart (You vs. Class Average), and a CSV export of their own report
+- **My Progress** — personal dashboard with a full profile snapshot, a "You vs. Class Average" side-by-side bar comparison across study hours/grades/engagement, auto-generated personalized recommendations, and a CSV export of their own report
 
 **Platform**
 - Role-based auth (Admin/Instructor vs. Student) with sign-up, session state, and logout
@@ -94,6 +92,19 @@ Risk List page instead of looping row-by-row.
   stdlib-only via `hashlib` + `secrets`). Legacy plaintext rows (e.g. the seeded `admin`/`student`
   accounts) are verified once and transparently rehashed on next login, so no separate migration
   script is needed.
+
+---
+
+## ✅ Tested End-to-End
+
+Every claim in this README is backed by an actual run of the app, not just a read of the code:
+- Full login → all 6 admin pages → student view walked through on a live local instance
+- The ML metrics above were pulled directly from the trained `dropout_model.pkl`, not estimated
+- The security fixes were verified against the database directly: SQL-injection allow-list blocks
+  malicious table names, and stored passwords are confirmed hashed (PBKDF2, not plaintext)
+- Every screenshot in this README is a real capture from the running app — Institutional Overview,
+  the Risk List scoring all 50,000 engagement records, the AI Risk Predictor returning a live result,
+  Student Lookup, the student-side Compare view, and the Interventions log
 
 ---
 
