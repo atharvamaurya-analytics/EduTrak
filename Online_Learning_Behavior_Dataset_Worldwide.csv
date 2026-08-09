@@ -1,0 +1,1001 @@
+Student_ID,Country,Age,Gender,Education_Level,Field_of_Study,Platform_Used,Device_Used,Learning_Mode,Enrollment_Date,Daily_Learning_Hours,Quizzes_Attempted,Assignments_Submitted,Course_Completion_Rate(%),Satisfaction_Score(1-5)
+1,South Africa,21,Other,High School,Medicine,Khan Academy,Mobile,Self-Paced,24-11-2023,4.58,7,3,28.91,2
+2,South Africa,49,Female,Undergraduate,Arts,Udacity,Tablet,Self-Paced,17-02-2023,3.28,0,8,37.49,2
+3,UK,20,Female,High School,Engineering,edX,Tablet,Self-Paced,23-03-2023,2.37,4,3,75.85,3
+4,France,38,Other,Undergraduate,Data Science,Coursera,Mobile,Hybrid,24-08-2023,5.85,12,1,62.9,5
+5,France,44,Other,Postgraduate,Business,edX,Tablet,Self-Paced,27-04-2023,5.92,7,1,81.85,4
+6,Brazil,25,Other,Undergraduate,Business,Khan Academy,Desktop,Instructor-Led,10-12-2023,5.65,20,1,41.36,5
+7,USA,35,Female,Postgraduate,Computer Science,Udemy,Tablet,Self-Paced,24-11-2023,1.71,10,0,75.05,2
+8,France,23,Male,Postgraduate,Data Science,Udacity,Desktop,Hybrid,02-12-2023,5.37,20,7,59.94,2
+9,UK,18,Male,Undergraduate,Data Science,Udemy,Desktop,Hybrid,24-07-2023,5.99,4,8,48.96,4
+10,Japan,15,Other,High School,Data Science,Udacity,Tablet,Hybrid,02-02-2023,3.78,14,8,50.78,3
+11,Japan,26,Other,High School,Data Science,edX,Laptop,Self-Paced,24-06-2023,2.89,14,0,28.92,3
+12,India,46,Male,High School,Engineering,edX,Laptop,Self-Paced,11-07-2023,3.47,16,0,81,5
+13,UAE,49,Male,Undergraduate,Data Science,Khan Academy,Laptop,Instructor-Led,04-05-2023,5.71,2,7,90.24,1
+14,South Africa,34,Female,Postgraduate,Arts,Udacity,Desktop,Self-Paced,28-09-2023,2.83,6,8,89.79,2
+15,Australia,29,Male,High School,Data Science,YouTube Learning,Mobile,Self-Paced,07-05-2023,2.36,18,8,37.98,2
+16,France,46,Male,Undergraduate,Data Science,Udacity,Desktop,Self-Paced,04-02-2023,5.23,2,8,92.43,2
+17,India,42,Female,Professional,Data Science,Coursera,Mobile,Self-Paced,31-08-2023,1.55,3,10,84.6,4
+18,Germany,49,Female,Undergraduate,Arts,Udemy,Tablet,Instructor-Led,26-07-2023,4.9,3,3,78.26,2
+19,Brazil,49,Male,High School,Business,Udemy,Desktop,Instructor-Led,08-05-2023,0.91,17,1,89.96,1
+20,USA,39,Female,Professional,Engineering,Khan Academy,Desktop,Self-Paced,04-09-2023,2.71,1,2,37.1,4
+21,South Africa,35,Male,High School,Medicine,Khan Academy,Laptop,Self-Paced,08-04-2023,5.83,18,8,43.74,1
+22,Pakistan,22,Other,Undergraduate,Medicine,Udacity,Mobile,Hybrid,18-09-2023,1.52,19,1,26.41,2
+23,Germany,35,Male,Postgraduate,Arts,Udemy,Tablet,Instructor-Led,11-02-2023,3.71,16,5,53.54,3
+24,Australia,21,Male,Undergraduate,Medicine,edX,Laptop,Instructor-Led,11-06-2023,5.65,0,7,94.32,5
+25,South Africa,34,Other,High School,Data Science,Udacity,Tablet,Hybrid,05-02-2023,2.53,5,7,90.34,5
+26,Canada,32,Female,Undergraduate,Data Science,edX,Laptop,Hybrid,23-02-2023,1.24,3,1,95.11,5
+27,Brazil,42,Female,High School,Computer Science,edX,Laptop,Hybrid,21-11-2023,3.28,8,0,88.23,1
+28,UK,19,Other,Undergraduate,Medicine,Coursera,Tablet,Hybrid,15-05-2023,2.93,13,8,32.93,1
+29,India,28,Other,Undergraduate,Data Science,Coursera,Tablet,Hybrid,10-10-2023,1.2,9,5,31.85,1
+30,Pakistan,16,Male,Postgraduate,Arts,YouTube Learning,Laptop,Instructor-Led,28-07-2023,4.62,7,2,97.91,2
+31,Germany,44,Female,Postgraduate,Business,Udemy,Mobile,Hybrid,23-03-2023,1.09,1,7,82.99,2
+32,Brazil,47,Female,Postgraduate,Computer Science,Coursera,Tablet,Self-Paced,09-04-2023,2.03,2,4,51.88,3
+33,India,35,Female,High School,Arts,Udacity,Laptop,Instructor-Led,25-10-2023,1.96,3,9,97,4
+34,India,42,Male,Postgraduate,Medicine,edX,Mobile,Hybrid,23-01-2023,0.51,17,10,76.7,2
+35,Japan,23,Male,Professional,Data Science,Khan Academy,Laptop,Hybrid,03-06-2023,4.17,10,6,60.57,3
+36,Germany,42,Other,Postgraduate,Arts,Khan Academy,Desktop,Hybrid,19-10-2023,3.51,0,4,44.08,3
+37,France,47,Other,Postgraduate,Computer Science,Udemy,Tablet,Self-Paced,20-04-2023,4.87,5,10,60.89,1
+38,China,41,Other,Undergraduate,Data Science,YouTube Learning,Desktop,Instructor-Led,12-04-2023,0.75,15,9,31.79,1
+39,Germany,26,Other,Professional,Computer Science,Udacity,Laptop,Self-Paced,24-07-2023,4.11,0,1,39.52,4
+40,India,43,Other,Professional,Medicine,Khan Academy,Laptop,Hybrid,22-08-2023,3.06,16,8,30.67,5
+41,China,30,Female,Professional,Computer Science,YouTube Learning,Tablet,Self-Paced,01-09-2023,4.63,20,4,56.01,5
+42,Germany,39,Other,Undergraduate,Data Science,Udemy,Mobile,Instructor-Led,20-05-2023,5.41,2,2,46.87,2
+43,Pakistan,16,Other,Professional,Arts,Coursera,Tablet,Instructor-Led,28-07-2023,3.06,1,3,46.47,4
+44,UAE,29,Female,Undergraduate,Engineering,Khan Academy,Desktop,Self-Paced,19-07-2023,5.74,13,8,88.28,5
+45,Canada,49,Male,Professional,Medicine,Udacity,Mobile,Self-Paced,19-07-2023,4.24,12,2,46.89,4
+46,Pakistan,35,Male,Professional,Engineering,edX,Desktop,Instructor-Led,26-11-2023,5.27,5,0,54.29,3
+47,India,29,Other,High School,Data Science,Coursera,Mobile,Self-Paced,04-08-2023,0.95,0,8,40.18,1
+48,Brazil,22,Other,Undergraduate,Arts,YouTube Learning,Tablet,Instructor-Led,13-04-2023,3.92,7,2,87.14,4
+49,UK,16,Female,Professional,Arts,YouTube Learning,Laptop,Self-Paced,27-03-2023,5.8,3,2,68.47,3
+50,UAE,22,Other,High School,Engineering,Udacity,Desktop,Hybrid,31-10-2023,3.95,3,4,75.25,5
+51,UK,42,Female,Professional,Data Science,Udemy,Desktop,Self-Paced,09-07-2023,4.06,0,6,25.52,4
+52,Pakistan,32,Female,Undergraduate,Computer Science,edX,Desktop,Self-Paced,25-09-2023,1.99,17,7,97.24,4
+53,India,26,Female,Undergraduate,Engineering,edX,Tablet,Instructor-Led,26-08-2023,4.18,10,0,65.59,4
+54,UK,30,Other,Professional,Arts,Udacity,Laptop,Hybrid,02-11-2023,2.02,0,8,76.09,2
+55,Germany,40,Other,Undergraduate,Engineering,YouTube Learning,Tablet,Instructor-Led,01-09-2023,3.2,0,1,71.67,3
+56,South Africa,44,Female,Postgraduate,Engineering,Udemy,Mobile,Hybrid,11-10-2023,2.84,17,5,62.47,3
+57,South Africa,45,Female,Postgraduate,Computer Science,Udemy,Tablet,Self-Paced,09-04-2023,4.59,5,3,45.24,2
+58,USA,18,Other,Postgraduate,Data Science,Udemy,Desktop,Self-Paced,04-07-2023,0.58,17,2,34.36,3
+59,USA,31,Female,High School,Computer Science,Khan Academy,Desktop,Self-Paced,07-01-2023,3.08,14,5,65.93,2
+60,UK,30,Male,Professional,Medicine,Udacity,Laptop,Hybrid,23-10-2023,0.79,4,9,70.36,3
+61,Australia,18,Other,High School,Business,YouTube Learning,Laptop,Instructor-Led,14-07-2023,2.93,18,6,56.04,3
+62,USA,41,Female,Professional,Engineering,Coursera,Laptop,Instructor-Led,05-12-2023,1.82,17,1,26.49,2
+63,France,27,Female,High School,Medicine,Udemy,Laptop,Instructor-Led,28-12-2023,5.23,2,10,42.62,2
+64,France,43,Male,Professional,Data Science,edX,Desktop,Instructor-Led,14-03-2023,1.41,9,9,25.71,5
+65,South Africa,35,Other,Postgraduate,Computer Science,Coursera,Laptop,Hybrid,14-09-2023,2.91,19,0,63.2,4
+66,UAE,26,Female,Professional,Engineering,Udemy,Desktop,Hybrid,22-10-2023,0.61,8,9,66.97,1
+67,Brazil,21,Male,Postgraduate,Arts,YouTube Learning,Desktop,Instructor-Led,09-09-2023,3.09,13,5,97.52,3
+68,UK,35,Female,Postgraduate,Computer Science,Khan Academy,Mobile,Hybrid,06-12-2023,4.97,17,0,95.62,4
+69,UAE,46,Other,Professional,Computer Science,Udemy,Tablet,Hybrid,05-10-2023,0.8,16,5,56.96,5
+70,Brazil,30,Other,Undergraduate,Engineering,Udacity,Mobile,Hybrid,09-03-2023,2.91,15,1,94.21,1
+71,Brazil,24,Female,Postgraduate,Medicine,YouTube Learning,Tablet,Instructor-Led,28-07-2023,5.96,3,7,27.46,1
+72,Germany,47,Other,Undergraduate,Computer Science,edX,Desktop,Instructor-Led,05-09-2023,1.84,17,2,98.42,4
+73,Brazil,46,Male,Professional,Medicine,Khan Academy,Tablet,Instructor-Led,17-09-2023,0.51,9,9,41.37,5
+74,Australia,39,Male,Professional,Computer Science,edX,Desktop,Hybrid,10-10-2023,2.57,10,3,81.03,2
+75,USA,23,Other,Postgraduate,Computer Science,Khan Academy,Mobile,Hybrid,15-07-2023,4.15,20,2,50.89,4
+76,China,31,Female,Professional,Data Science,Coursera,Tablet,Hybrid,22-08-2023,1.29,20,2,21.23,1
+77,Australia,19,Male,Postgraduate,Business,YouTube Learning,Mobile,Instructor-Led,01-10-2023,2.24,15,8,50.4,1
+78,South Africa,34,Male,High School,Engineering,Coursera,Tablet,Instructor-Led,20-02-2023,4.37,3,7,80.83,2
+79,Canada,26,Male,Professional,Medicine,YouTube Learning,Laptop,Instructor-Led,11-07-2023,1.84,13,9,54.45,2
+80,Brazil,15,Female,Postgraduate,Data Science,Udacity,Laptop,Self-Paced,26-10-2023,3.04,8,7,31.45,3
+81,South Africa,31,Female,Postgraduate,Business,Khan Academy,Desktop,Self-Paced,15-08-2023,5.93,9,10,95.62,4
+82,Brazil,40,Female,High School,Medicine,YouTube Learning,Mobile,Hybrid,02-05-2023,2.47,9,4,50.51,1
+83,Germany,27,Other,Postgraduate,Data Science,YouTube Learning,Laptop,Hybrid,12-09-2023,5.47,7,9,86.63,3
+84,Australia,38,Other,Undergraduate,Computer Science,edX,Tablet,Hybrid,19-02-2023,4.05,9,7,92.27,1
+85,Japan,32,Male,Postgraduate,Arts,edX,Tablet,Self-Paced,01-08-2023,1.23,17,5,34.05,5
+86,UAE,50,Female,High School,Arts,Coursera,Tablet,Hybrid,28-08-2023,1.27,7,10,97.03,4
+87,Brazil,38,Male,Undergraduate,Arts,Coursera,Tablet,Hybrid,05-03-2023,4.2,8,9,56.38,4
+88,UK,23,Male,High School,Engineering,Khan Academy,Mobile,Self-Paced,24-04-2023,3.99,14,4,71.81,4
+89,Pakistan,24,Female,High School,Arts,Udacity,Desktop,Instructor-Led,01-05-2023,1.25,14,5,90.98,5
+90,UK,38,Other,Postgraduate,Computer Science,Khan Academy,Tablet,Self-Paced,17-01-2023,1.69,14,3,75.22,3
+91,Brazil,16,Male,Postgraduate,Business,Udemy,Laptop,Self-Paced,04-03-2023,5.03,2,10,95.92,2
+92,UAE,15,Female,Undergraduate,Business,Udacity,Tablet,Self-Paced,11-10-2023,1.69,7,5,36.57,2
+93,Australia,35,Male,Undergraduate,Engineering,Coursera,Laptop,Hybrid,26-02-2023,0.64,0,5,72.88,2
+94,Japan,21,Female,Undergraduate,Medicine,Coursera,Tablet,Instructor-Led,04-08-2023,4.6,15,7,62.09,3
+95,Brazil,21,Female,Professional,Computer Science,Coursera,Tablet,Hybrid,26-11-2023,0.83,15,6,97.12,4
+96,South Africa,35,Female,Postgraduate,Arts,Udacity,Desktop,Self-Paced,17-03-2023,2.01,20,9,25.25,5
+97,China,29,Female,Postgraduate,Arts,Khan Academy,Desktop,Hybrid,26-12-2023,4.1,17,3,29.15,4
+98,Brazil,45,Male,High School,Computer Science,Coursera,Desktop,Self-Paced,18-02-2023,2.22,8,5,45,2
+99,India,22,Female,Postgraduate,Data Science,Khan Academy,Mobile,Instructor-Led,10-07-2023,3.56,18,8,84.94,5
+100,Brazil,45,Male,High School,Engineering,Udacity,Tablet,Self-Paced,04-11-2023,1.07,16,3,45,2
+101,Brazil,50,Male,Postgraduate,Computer Science,Udemy,Tablet,Hybrid,23-05-2023,4.94,17,9,65.93,5
+102,Brazil,40,Male,Undergraduate,Data Science,YouTube Learning,Mobile,Self-Paced,08-06-2023,2.43,5,2,93.72,5
+103,France,35,Other,High School,Computer Science,Udemy,Laptop,Hybrid,29-09-2023,2.81,10,2,37.21,3
+104,China,41,Female,Undergraduate,Medicine,Coursera,Tablet,Instructor-Led,26-01-2023,2,13,7,73.92,5
+105,USA,29,Female,High School,Computer Science,Udemy,Tablet,Self-Paced,26-02-2023,4.23,15,8,42.66,3
+106,South Africa,42,Male,Undergraduate,Arts,Udacity,Laptop,Hybrid,12-03-2023,2.09,3,0,81.13,4
+107,Pakistan,16,Female,High School,Engineering,Udacity,Desktop,Hybrid,14-10-2023,4.93,2,6,86.67,1
+108,India,25,Other,Professional,Data Science,edX,Mobile,Instructor-Led,27-07-2023,2.8,3,6,76.76,1
+109,France,36,Male,Postgraduate,Business,Coursera,Mobile,Hybrid,24-02-2023,3.74,16,1,39.47,4
+110,Germany,21,Male,Postgraduate,Business,Udemy,Laptop,Hybrid,19-09-2023,4.77,11,10,35.51,2
+111,UAE,43,Other,Postgraduate,Data Science,edX,Laptop,Instructor-Led,08-02-2023,4.75,15,7,34.17,5
+112,India,47,Male,Postgraduate,Arts,Khan Academy,Mobile,Self-Paced,04-02-2023,3.97,8,9,57.51,1
+113,Japan,39,Female,High School,Arts,Udacity,Laptop,Instructor-Led,08-07-2023,0.92,2,9,86.54,5
+114,UAE,36,Other,High School,Medicine,YouTube Learning,Laptop,Self-Paced,06-11-2023,1.33,1,7,58.05,1
+115,Canada,38,Female,Postgraduate,Arts,Khan Academy,Tablet,Hybrid,07-05-2023,5.95,16,8,76.61,5
+116,UK,50,Other,Professional,Engineering,edX,Laptop,Instructor-Led,03-11-2023,3.97,10,1,24.19,3
+117,Canada,20,Female,Professional,Data Science,edX,Laptop,Hybrid,11-02-2023,1.28,11,4,66.62,4
+118,Japan,38,Male,Postgraduate,Engineering,Udemy,Laptop,Instructor-Led,26-12-2023,4.56,16,1,86.32,4
+119,UAE,21,Other,High School,Data Science,edX,Laptop,Hybrid,06-09-2023,6,4,1,35.36,3
+120,USA,41,Female,Undergraduate,Arts,Udacity,Tablet,Hybrid,12-07-2023,1.49,19,2,32.34,4
+121,Brazil,43,Female,Postgraduate,Arts,Udacity,Desktop,Self-Paced,18-08-2023,1.82,15,3,38.72,3
+122,India,50,Male,High School,Engineering,Coursera,Laptop,Instructor-Led,13-04-2023,1.26,8,0,84.1,4
+123,China,37,Male,Professional,Computer Science,Khan Academy,Tablet,Self-Paced,19-08-2023,1.31,13,1,92.42,2
+124,South Africa,36,Male,Undergraduate,Computer Science,edX,Desktop,Hybrid,17-07-2023,2.56,0,5,99.56,1
+125,USA,31,Male,Undergraduate,Medicine,YouTube Learning,Desktop,Self-Paced,13-03-2023,3.08,19,0,80.71,1
+126,China,19,Male,Professional,Medicine,Udacity,Mobile,Hybrid,28-05-2023,1.17,7,6,39.01,5
+127,Australia,37,Male,Professional,Business,YouTube Learning,Mobile,Hybrid,21-09-2023,4.45,9,6,66,1
+128,USA,39,Female,High School,Data Science,Khan Academy,Tablet,Instructor-Led,04-07-2023,3.39,16,8,25.41,5
+129,UAE,36,Male,High School,Engineering,Udacity,Tablet,Hybrid,09-01-2023,0.87,7,10,48.57,1
+130,UAE,23,Male,Professional,Computer Science,edX,Laptop,Self-Paced,31-03-2023,4.27,15,10,86.43,2
+131,Japan,45,Female,High School,Data Science,Udemy,Tablet,Instructor-Led,13-04-2023,2.24,9,8,90.86,4
+132,Pakistan,43,Female,Postgraduate,Business,Khan Academy,Desktop,Instructor-Led,25-01-2023,2.33,3,5,89.26,4
+133,Australia,26,Other,Postgraduate,Engineering,Coursera,Mobile,Instructor-Led,23-09-2023,0.95,13,1,41.34,4
+134,India,43,Male,Postgraduate,Medicine,Khan Academy,Tablet,Hybrid,05-12-2023,2.95,13,2,43.65,4
+135,USA,24,Other,Professional,Computer Science,Udemy,Mobile,Self-Paced,30-01-2023,4.01,11,8,26,2
+136,Canada,43,Female,Postgraduate,Arts,Coursera,Laptop,Hybrid,27-11-2023,2.61,18,0,49.31,5
+137,South Africa,26,Female,Professional,Medicine,Coursera,Tablet,Instructor-Led,07-07-2023,4.07,7,1,51.84,1
+138,UK,23,Male,Professional,Business,YouTube Learning,Desktop,Self-Paced,27-12-2023,5.98,9,7,55.7,2
+139,Japan,33,Female,Undergraduate,Data Science,YouTube Learning,Laptop,Instructor-Led,16-12-2023,5.93,11,1,97.4,5
+140,USA,38,Other,Postgraduate,Arts,Udacity,Laptop,Hybrid,18-09-2023,5.92,4,3,37.94,4
+141,UAE,41,Other,High School,Business,edX,Mobile,Instructor-Led,14-02-2023,2.69,15,8,25.26,4
+142,Canada,23,Female,High School,Computer Science,Udacity,Laptop,Instructor-Led,27-08-2023,2.39,17,10,74.41,5
+143,France,20,Female,Undergraduate,Data Science,Udacity,Tablet,Self-Paced,26-03-2023,5.64,7,5,32.96,5
+144,Australia,24,Male,Postgraduate,Medicine,Coursera,Mobile,Self-Paced,17-11-2023,3.43,16,10,44.23,2
+145,UAE,41,Other,High School,Arts,YouTube Learning,Tablet,Hybrid,24-01-2023,4.74,8,10,95.88,2
+146,UK,18,Male,Professional,Arts,Khan Academy,Desktop,Self-Paced,04-06-2023,4.93,12,4,58.64,4
+147,Canada,38,Other,High School,Engineering,Udemy,Desktop,Self-Paced,24-06-2023,2.22,10,5,68.53,4
+148,Australia,41,Male,Undergraduate,Engineering,Udacity,Tablet,Self-Paced,17-05-2023,1.27,1,4,55.97,4
+149,USA,20,Female,Professional,Business,Udemy,Tablet,Self-Paced,23-03-2023,3.33,15,4,59.86,4
+150,France,49,Male,High School,Arts,Udemy,Tablet,Hybrid,26-01-2023,3.79,20,10,42.51,4
+151,Japan,27,Female,Postgraduate,Computer Science,Khan Academy,Desktop,Hybrid,07-07-2023,2.51,12,0,81.11,5
+152,UK,40,Female,Postgraduate,Medicine,edX,Laptop,Self-Paced,24-05-2023,3.93,19,1,86.02,2
+153,South Africa,36,Female,Professional,Business,Udacity,Laptop,Instructor-Led,05-11-2023,3.25,1,0,60.73,2
+154,India,47,Other,Professional,Data Science,Udacity,Tablet,Instructor-Led,10-11-2023,2.66,19,4,45.48,5
+155,UAE,16,Other,Professional,Engineering,YouTube Learning,Laptop,Hybrid,09-01-2023,4.21,13,9,49.47,3
+156,Canada,30,Male,High School,Business,Coursera,Desktop,Instructor-Led,27-01-2023,1.44,20,9,66.68,4
+157,China,18,Other,Undergraduate,Medicine,Udemy,Tablet,Hybrid,03-08-2023,4.3,13,8,32.11,5
+158,India,49,Female,Postgraduate,Medicine,Khan Academy,Laptop,Self-Paced,02-09-2023,2.23,5,7,62.04,5
+159,South Africa,46,Female,Professional,Engineering,Udacity,Tablet,Instructor-Led,23-05-2023,1.74,9,4,64.65,2
+160,France,17,Female,High School,Engineering,Khan Academy,Tablet,Hybrid,04-03-2023,3.49,12,5,65.88,2
+161,Canada,21,Other,Undergraduate,Business,Coursera,Laptop,Hybrid,03-09-2023,5.05,8,8,37.12,3
+162,USA,50,Male,Professional,Data Science,Khan Academy,Desktop,Hybrid,30-04-2023,2.77,15,1,24.2,2
+163,UAE,20,Other,Undergraduate,Medicine,YouTube Learning,Mobile,Self-Paced,13-04-2023,2.08,9,10,80.47,1
+164,Canada,33,Male,High School,Engineering,Udacity,Mobile,Instructor-Led,02-08-2023,1.47,1,6,90.58,4
+165,Japan,44,Female,Undergraduate,Computer Science,edX,Laptop,Hybrid,26-05-2023,4.03,16,7,56.35,2
+166,Australia,27,Male,Professional,Arts,Udacity,Tablet,Self-Paced,23-08-2023,4.45,0,5,71.86,3
+167,Germany,15,Female,Professional,Business,Khan Academy,Tablet,Instructor-Led,25-07-2023,1.52,4,7,73.54,3
+168,South Africa,30,Male,High School,Arts,edX,Laptop,Instructor-Led,04-06-2023,3.65,8,10,66.6,3
+169,India,29,Male,Undergraduate,Arts,Udemy,Desktop,Hybrid,18-12-2023,5.42,9,1,60.2,3
+170,UAE,30,Other,High School,Medicine,Khan Academy,Tablet,Self-Paced,07-11-2023,4.36,15,8,49.89,2
+171,Japan,24,Male,Postgraduate,Medicine,Khan Academy,Mobile,Hybrid,16-10-2023,5.06,16,3,28.98,5
+172,China,23,Other,Professional,Arts,Udacity,Mobile,Hybrid,16-04-2023,3.19,16,7,77.35,1
+173,USA,28,Other,High School,Computer Science,Khan Academy,Tablet,Hybrid,25-08-2023,2.19,0,6,73.82,3
+174,France,41,Male,Undergraduate,Data Science,YouTube Learning,Desktop,Instructor-Led,02-02-2023,0.83,2,7,63.29,1
+175,Brazil,49,Male,Postgraduate,Computer Science,Udemy,Desktop,Hybrid,15-07-2023,5.54,12,6,55.88,1
+176,China,49,Female,Professional,Business,Udemy,Desktop,Instructor-Led,07-03-2023,1.72,0,0,78.23,3
+177,Australia,16,Male,Undergraduate,Computer Science,Coursera,Mobile,Instructor-Led,21-03-2023,5.66,3,0,42.05,4
+178,China,29,Other,Undergraduate,Computer Science,Udemy,Tablet,Self-Paced,03-11-2023,5.3,7,0,73.76,4
+179,Canada,48,Male,Professional,Engineering,edX,Mobile,Hybrid,22-10-2023,3.79,10,3,45.51,3
+180,Japan,46,Male,Postgraduate,Data Science,YouTube Learning,Desktop,Hybrid,30-10-2023,5.51,20,10,90.38,4
+181,UAE,49,Female,Undergraduate,Business,edX,Laptop,Instructor-Led,13-06-2023,2.75,9,6,75.7,2
+182,Pakistan,30,Female,Undergraduate,Engineering,YouTube Learning,Mobile,Instructor-Led,30-01-2023,5.82,17,8,64.99,2
+183,Pakistan,17,Male,Undergraduate,Medicine,YouTube Learning,Laptop,Instructor-Led,09-07-2023,4.49,6,0,27.4,3
+184,South Africa,22,Other,Professional,Business,YouTube Learning,Laptop,Instructor-Led,17-04-2023,2.33,0,3,89.56,2
+185,Brazil,37,Female,Postgraduate,Engineering,Udacity,Desktop,Instructor-Led,03-05-2023,4.77,12,7,64.17,5
+186,India,41,Male,Undergraduate,Data Science,Udemy,Mobile,Instructor-Led,20-02-2023,4.47,10,3,84.23,3
+187,Germany,36,Male,Professional,Medicine,Udemy,Desktop,Hybrid,11-10-2023,3.69,13,4,94.78,2
+188,China,25,Other,Postgraduate,Business,Udemy,Desktop,Self-Paced,02-12-2023,2.36,15,10,95.48,4
+189,Brazil,18,Male,Professional,Business,YouTube Learning,Laptop,Self-Paced,05-10-2023,5.76,16,0,99.23,1
+190,Australia,45,Other,Professional,Computer Science,Coursera,Desktop,Self-Paced,29-12-2023,1.7,14,5,32.08,1
+191,South Africa,42,Male,High School,Computer Science,Udacity,Laptop,Self-Paced,09-01-2023,2.01,9,0,62.35,5
+192,UK,38,Female,Professional,Medicine,Udemy,Laptop,Instructor-Led,09-04-2023,1.89,11,4,69.58,4
+193,Pakistan,39,Female,Professional,Computer Science,YouTube Learning,Mobile,Hybrid,17-12-2023,0.94,20,0,86.24,1
+194,UK,48,Male,Undergraduate,Business,YouTube Learning,Desktop,Instructor-Led,29-03-2023,5.15,20,5,26.61,5
+195,Brazil,17,Male,Postgraduate,Computer Science,Udemy,Laptop,Hybrid,24-01-2023,4.26,8,8,93.93,5
+196,Pakistan,49,Female,Professional,Data Science,Udemy,Mobile,Hybrid,23-07-2023,2.15,18,3,94.31,5
+197,UAE,40,Female,High School,Data Science,edX,Desktop,Instructor-Led,27-06-2023,2.9,2,5,24.3,5
+198,Brazil,39,Male,Postgraduate,Business,YouTube Learning,Mobile,Self-Paced,27-04-2023,5.68,13,2,48.46,5
+199,India,38,Male,High School,Computer Science,edX,Desktop,Instructor-Led,18-05-2023,4.41,20,2,32.34,4
+200,Japan,47,Female,High School,Computer Science,Coursera,Tablet,Hybrid,19-05-2023,0.98,13,7,28.18,5
+201,Pakistan,39,Male,Undergraduate,Medicine,Udacity,Laptop,Hybrid,17-02-2023,4.81,12,0,67.75,3
+202,UK,25,Female,Postgraduate,Arts,edX,Desktop,Self-Paced,14-07-2023,1.98,8,7,33.56,2
+203,Australia,27,Female,High School,Business,edX,Mobile,Instructor-Led,04-07-2023,1.86,20,7,40.14,5
+204,Pakistan,23,Female,Postgraduate,Medicine,YouTube Learning,Laptop,Instructor-Led,20-06-2023,2.59,10,7,87.33,3
+205,Australia,30,Female,Professional,Engineering,Khan Academy,Tablet,Self-Paced,10-06-2023,2.69,10,4,34.21,4
+206,USA,44,Other,Undergraduate,Arts,edX,Mobile,Instructor-Led,16-10-2023,5.98,5,10,35.98,5
+207,South Africa,42,Female,High School,Arts,Udacity,Desktop,Hybrid,11-12-2023,3.98,7,4,59.94,2
+208,UAE,38,Other,High School,Computer Science,Udemy,Tablet,Self-Paced,25-07-2023,5.58,13,8,62.75,1
+209,UAE,36,Female,High School,Computer Science,Coursera,Tablet,Self-Paced,28-11-2023,3.6,20,10,69.01,4
+210,India,40,Female,Undergraduate,Engineering,Coursera,Desktop,Self-Paced,19-09-2023,3.57,18,3,79.75,4
+211,France,36,Female,Undergraduate,Medicine,Khan Academy,Tablet,Instructor-Led,01-06-2023,5.79,3,2,53.28,3
+212,USA,22,Male,Postgraduate,Data Science,Coursera,Laptop,Hybrid,19-02-2023,4.33,10,1,55.05,3
+213,China,29,Female,Undergraduate,Business,YouTube Learning,Desktop,Instructor-Led,05-05-2023,3.54,10,8,61.28,4
+214,Pakistan,15,Other,Undergraduate,Business,edX,Mobile,Hybrid,15-01-2023,5.36,14,9,78.99,4
+215,China,22,Female,Professional,Medicine,YouTube Learning,Tablet,Hybrid,22-02-2023,3.45,11,5,83.96,2
+216,Australia,26,Other,Postgraduate,Medicine,Udacity,Mobile,Hybrid,18-07-2023,3.73,11,5,68.9,4
+217,South Africa,24,Other,Professional,Arts,Udacity,Laptop,Hybrid,10-03-2023,1.81,3,2,45.05,3
+218,Japan,25,Female,Postgraduate,Business,Udemy,Tablet,Instructor-Led,16-07-2023,3.18,17,10,53.84,2
+219,Germany,39,Other,Professional,Arts,YouTube Learning,Desktop,Instructor-Led,14-11-2023,2.47,0,7,24.29,2
+220,UAE,29,Female,High School,Engineering,Udemy,Tablet,Self-Paced,30-12-2023,3.19,2,9,87.19,1
+221,UK,22,Female,Postgraduate,Medicine,Coursera,Desktop,Hybrid,23-08-2023,4.75,15,8,65.25,5
+222,USA,43,Female,Postgraduate,Computer Science,Khan Academy,Mobile,Self-Paced,22-04-2023,1.06,20,3,99.18,3
+223,Canada,23,Male,Undergraduate,Computer Science,Udacity,Tablet,Hybrid,18-04-2023,3.73,11,9,84.86,4
+224,France,47,Other,High School,Business,Khan Academy,Mobile,Instructor-Led,24-05-2023,1.43,9,4,67.75,5
+225,Germany,40,Female,Undergraduate,Medicine,YouTube Learning,Tablet,Hybrid,02-12-2023,5.26,7,2,30.15,3
+226,South Africa,32,Other,Postgraduate,Arts,Khan Academy,Tablet,Hybrid,01-08-2023,0.92,2,6,50.01,5
+227,UK,49,Female,Undergraduate,Arts,Udemy,Desktop,Instructor-Led,02-01-2023,5.16,2,7,89.51,3
+228,China,36,Other,High School,Computer Science,Coursera,Desktop,Self-Paced,15-06-2023,2.36,18,2,86.27,5
+229,Germany,23,Other,Postgraduate,Business,edX,Mobile,Hybrid,05-03-2023,1.37,14,0,94.35,4
+230,Pakistan,34,Other,Undergraduate,Arts,YouTube Learning,Mobile,Hybrid,04-07-2023,2.55,20,2,40.03,1
+231,Japan,43,Male,High School,Data Science,edX,Mobile,Instructor-Led,18-02-2023,3.12,4,9,20.09,2
+232,UK,35,Female,Postgraduate,Business,Khan Academy,Laptop,Hybrid,22-12-2023,0.89,12,1,30.57,1
+233,China,37,Other,Undergraduate,Data Science,YouTube Learning,Laptop,Instructor-Led,13-12-2023,3.42,0,9,31.43,2
+234,UAE,22,Other,Professional,Engineering,Khan Academy,Tablet,Self-Paced,12-11-2023,5.23,2,1,74.93,2
+235,South Africa,33,Other,High School,Data Science,edX,Laptop,Hybrid,07-05-2023,0.96,17,9,42.16,5
+236,UAE,30,Female,Professional,Computer Science,Udemy,Desktop,Hybrid,07-11-2023,4.61,9,10,60.76,1
+237,Canada,39,Other,Professional,Engineering,Udacity,Laptop,Instructor-Led,01-11-2023,5.39,0,5,25.68,3
+238,USA,40,Other,Postgraduate,Data Science,YouTube Learning,Desktop,Instructor-Led,07-02-2023,0.87,8,3,21.34,1
+239,France,20,Female,High School,Medicine,Udemy,Laptop,Hybrid,26-12-2023,4.02,17,9,52.18,2
+240,France,42,Other,Undergraduate,Computer Science,Udemy,Mobile,Instructor-Led,17-06-2023,3.99,20,10,51.26,1
+241,UK,15,Other,Undergraduate,Data Science,Coursera,Laptop,Instructor-Led,01-03-2023,3.85,9,10,56.27,2
+242,Canada,32,Other,High School,Computer Science,edX,Desktop,Instructor-Led,27-06-2023,4.81,8,2,61.84,3
+243,China,44,Other,Postgraduate,Computer Science,Khan Academy,Laptop,Instructor-Led,26-09-2023,4.42,18,10,25.11,1
+244,Germany,47,Male,High School,Computer Science,Udemy,Mobile,Instructor-Led,22-03-2023,1.07,18,10,40.41,1
+245,Germany,35,Male,Professional,Data Science,edX,Tablet,Self-Paced,06-07-2023,1.33,1,8,50.64,4
+246,UAE,48,Male,Professional,Computer Science,Khan Academy,Tablet,Instructor-Led,20-10-2023,3.26,1,2,49.82,2
+247,Australia,34,Other,Undergraduate,Arts,edX,Desktop,Self-Paced,17-06-2023,3.01,11,3,26.91,3
+248,Germany,49,Female,High School,Engineering,Coursera,Desktop,Hybrid,07-10-2023,1.85,0,6,80.84,1
+249,USA,24,Other,Postgraduate,Computer Science,Coursera,Laptop,Hybrid,07-06-2023,3.41,7,6,28.32,4
+250,Japan,23,Other,Professional,Computer Science,Udacity,Mobile,Instructor-Led,31-07-2023,2.55,2,9,76.07,1
+251,South Africa,35,Female,Professional,Engineering,Udemy,Mobile,Self-Paced,06-12-2023,1.8,8,5,97.14,4
+252,China,44,Female,Professional,Computer Science,Udacity,Tablet,Self-Paced,11-03-2023,3.72,4,1,82.39,2
+253,UAE,34,Other,High School,Business,edX,Laptop,Self-Paced,20-08-2023,1.96,3,1,44.66,2
+254,France,26,Male,Professional,Arts,Udacity,Laptop,Self-Paced,31-12-2023,2.46,16,0,39.86,3
+255,UAE,29,Male,Undergraduate,Arts,edX,Mobile,Hybrid,25-08-2023,4.87,3,0,28.15,1
+256,Brazil,43,Male,High School,Engineering,Coursera,Mobile,Instructor-Led,28-10-2023,4.97,0,1,40.71,2
+257,Pakistan,42,Male,Postgraduate,Business,Udemy,Tablet,Instructor-Led,26-01-2023,3.66,12,7,33.44,1
+258,Brazil,33,Female,Professional,Medicine,Khan Academy,Mobile,Self-Paced,17-08-2023,0.69,19,9,90.67,2
+259,Brazil,49,Male,Professional,Data Science,edX,Desktop,Hybrid,24-05-2023,2.81,20,8,50.64,2
+260,Canada,16,Female,Undergraduate,Computer Science,edX,Mobile,Instructor-Led,06-09-2023,3.61,10,6,47.52,3
+261,Germany,30,Female,High School,Business,Udacity,Desktop,Instructor-Led,29-09-2023,3.71,7,2,48.59,1
+262,South Africa,37,Other,Undergraduate,Medicine,Udemy,Desktop,Hybrid,30-03-2023,3.76,11,9,34.09,1
+263,Germany,16,Other,Professional,Computer Science,edX,Laptop,Self-Paced,08-06-2023,0.71,1,3,34.04,5
+264,Canada,24,Male,Postgraduate,Computer Science,edX,Desktop,Hybrid,24-06-2023,5.55,10,0,77.36,1
+265,Brazil,35,Male,Postgraduate,Business,YouTube Learning,Laptop,Instructor-Led,21-02-2023,2.27,5,6,46.92,4
+266,Pakistan,17,Male,Postgraduate,Medicine,Udemy,Mobile,Instructor-Led,07-06-2023,2.12,5,0,78.72,5
+267,Brazil,20,Other,Postgraduate,Arts,Coursera,Tablet,Self-Paced,14-03-2023,0.93,11,5,46.49,2
+268,Pakistan,43,Other,Professional,Business,Khan Academy,Desktop,Instructor-Led,08-05-2023,2.43,3,0,75.45,1
+269,Canada,43,Male,High School,Engineering,Coursera,Tablet,Instructor-Led,29-06-2023,1.06,15,9,63.68,2
+270,Japan,20,Female,Professional,Data Science,Coursera,Desktop,Hybrid,23-02-2023,1.44,12,2,25.94,1
+271,Germany,27,Female,Postgraduate,Data Science,edX,Tablet,Self-Paced,26-03-2023,2.89,1,1,68.59,3
+272,India,15,Female,High School,Engineering,YouTube Learning,Desktop,Self-Paced,19-02-2023,3.64,15,2,23.97,1
+273,UK,34,Female,Professional,Arts,YouTube Learning,Tablet,Self-Paced,19-02-2023,1.44,9,1,22.06,4
+274,China,17,Female,Professional,Arts,edX,Laptop,Instructor-Led,25-11-2023,1.52,12,5,63.53,2
+275,UAE,49,Female,Undergraduate,Medicine,Coursera,Desktop,Hybrid,16-10-2023,4.64,3,1,24.93,3
+276,China,34,Male,Professional,Data Science,Coursera,Laptop,Self-Paced,03-08-2023,4.28,15,9,97.25,2
+277,USA,42,Male,Professional,Business,YouTube Learning,Laptop,Hybrid,18-08-2023,5.91,6,3,33.83,2
+278,Japan,40,Other,Postgraduate,Engineering,Udacity,Desktop,Self-Paced,13-05-2023,4.5,2,1,45.58,4
+279,Canada,24,Other,High School,Computer Science,Udacity,Mobile,Instructor-Led,25-12-2023,3.37,13,1,69.84,4
+280,Australia,45,Male,Undergraduate,Engineering,Khan Academy,Laptop,Hybrid,02-10-2023,5.33,8,6,90.41,4
+281,USA,45,Female,Postgraduate,Computer Science,edX,Tablet,Instructor-Led,08-11-2023,2.71,12,5,74.47,2
+282,France,43,Female,Postgraduate,Data Science,Khan Academy,Mobile,Self-Paced,24-05-2023,5.22,3,3,87.43,2
+283,USA,47,Male,High School,Engineering,YouTube Learning,Desktop,Self-Paced,15-08-2023,5.03,15,8,36.91,3
+284,Germany,17,Female,High School,Engineering,YouTube Learning,Laptop,Instructor-Led,26-09-2023,0.66,6,3,90.35,1
+285,Germany,38,Female,Professional,Business,Khan Academy,Tablet,Instructor-Led,08-07-2023,3.28,20,1,85.88,1
+286,Pakistan,18,Male,Undergraduate,Business,YouTube Learning,Laptop,Hybrid,25-03-2023,1.92,2,4,87.01,1
+287,China,23,Other,Undergraduate,Medicine,Coursera,Laptop,Instructor-Led,16-04-2023,2.75,0,10,41.53,1
+288,Pakistan,37,Female,Postgraduate,Business,Khan Academy,Tablet,Hybrid,08-11-2023,2.18,20,4,84.41,4
+289,Brazil,38,Other,Postgraduate,Engineering,YouTube Learning,Mobile,Instructor-Led,24-09-2023,2.68,3,0,85.94,5
+290,Brazil,34,Male,Undergraduate,Medicine,Udemy,Mobile,Hybrid,02-02-2023,2.02,10,4,46.9,3
+291,France,31,Female,Professional,Arts,YouTube Learning,Mobile,Hybrid,26-07-2023,4.24,0,10,72.84,4
+292,Brazil,45,Other,Postgraduate,Medicine,edX,Laptop,Hybrid,29-12-2023,4.99,10,3,99.58,5
+293,UAE,26,Other,Postgraduate,Data Science,Coursera,Laptop,Instructor-Led,13-10-2023,1.04,4,4,34.49,5
+294,Australia,33,Female,High School,Arts,Coursera,Mobile,Instructor-Led,25-04-2023,2.19,10,5,79.54,3
+295,Pakistan,18,Male,Undergraduate,Business,edX,Desktop,Hybrid,10-04-2023,5.27,12,8,60.04,3
+296,India,26,Female,High School,Computer Science,Khan Academy,Tablet,Self-Paced,23-08-2023,5.24,5,1,31.46,4
+297,Pakistan,42,Female,Professional,Arts,Khan Academy,Mobile,Self-Paced,28-03-2023,1.37,2,2,66.1,5
+298,Germany,16,Other,High School,Data Science,YouTube Learning,Laptop,Self-Paced,01-10-2023,2.55,0,5,35.95,5
+299,Australia,34,Male,High School,Computer Science,edX,Tablet,Instructor-Led,22-12-2023,2.22,3,6,90.16,5
+300,India,27,Male,Professional,Computer Science,Udemy,Laptop,Hybrid,24-09-2023,2.36,4,5,67.71,4
+301,India,17,Female,Postgraduate,Medicine,Udacity,Mobile,Hybrid,09-03-2023,0.62,16,2,36.9,1
+302,Pakistan,43,Female,High School,Medicine,edX,Desktop,Hybrid,25-01-2023,4.09,0,0,72.96,1
+303,Brazil,21,Other,Postgraduate,Medicine,Udacity,Laptop,Instructor-Led,20-03-2023,4.27,0,4,36.44,4
+304,China,27,Other,Undergraduate,Engineering,Udacity,Laptop,Instructor-Led,23-02-2023,3.9,9,1,60.93,1
+305,South Africa,45,Female,Undergraduate,Computer Science,Coursera,Mobile,Self-Paced,27-12-2023,1.38,17,7,52.78,2
+306,South Africa,21,Female,Undergraduate,Arts,edX,Tablet,Instructor-Led,21-10-2023,1.32,2,8,73.52,1
+307,UAE,35,Female,High School,Computer Science,Coursera,Mobile,Self-Paced,26-01-2023,1.46,1,4,27.98,3
+308,South Africa,20,Female,Postgraduate,Business,Coursera,Desktop,Instructor-Led,06-12-2023,2.31,14,9,71.78,3
+309,UK,23,Other,High School,Business,Coursera,Desktop,Hybrid,22-08-2023,2.62,15,6,41.75,2
+310,UAE,37,Other,High School,Data Science,YouTube Learning,Laptop,Instructor-Led,05-09-2023,4.23,5,9,84.18,4
+311,Brazil,35,Male,Undergraduate,Data Science,edX,Mobile,Instructor-Led,07-09-2023,2.76,1,1,29.03,3
+312,Japan,18,Male,Undergraduate,Medicine,Khan Academy,Desktop,Self-Paced,05-12-2023,3.15,20,6,78.13,2
+313,Japan,29,Other,Professional,Arts,Udemy,Mobile,Instructor-Led,08-02-2023,2.26,10,4,80.11,1
+314,UK,46,Other,High School,Computer Science,Khan Academy,Desktop,Self-Paced,16-08-2023,2.96,15,7,84.1,3
+315,Japan,50,Male,Professional,Engineering,edX,Mobile,Self-Paced,13-10-2023,5.04,19,9,63.93,3
+316,South Africa,43,Male,High School,Data Science,Udemy,Mobile,Instructor-Led,21-08-2023,4.72,19,7,46.56,3
+317,India,21,Male,Undergraduate,Arts,Udemy,Desktop,Self-Paced,01-07-2023,5.8,9,8,86.39,5
+318,UAE,27,Other,Postgraduate,Computer Science,Khan Academy,Mobile,Hybrid,11-05-2023,1.53,12,3,68.87,4
+319,Japan,23,Female,High School,Medicine,YouTube Learning,Mobile,Hybrid,11-12-2023,4.75,14,7,67.1,5
+320,Canada,23,Male,Professional,Data Science,Udacity,Tablet,Hybrid,10-08-2023,3.16,16,2,87.11,5
+321,India,33,Female,Undergraduate,Business,Khan Academy,Tablet,Hybrid,16-07-2023,3.85,7,4,53.49,4
+322,Germany,28,Other,Postgraduate,Data Science,edX,Laptop,Hybrid,08-10-2023,4.42,17,10,88.86,2
+323,South Africa,22,Female,Professional,Medicine,Udacity,Desktop,Hybrid,29-11-2023,1.48,17,10,98.01,3
+324,USA,39,Male,High School,Data Science,Coursera,Laptop,Instructor-Led,01-10-2023,5.16,0,8,42.87,1
+325,Germany,49,Male,Postgraduate,Arts,Coursera,Laptop,Hybrid,24-03-2023,4.26,4,0,98.68,3
+326,Pakistan,39,Female,Postgraduate,Medicine,Coursera,Mobile,Hybrid,28-11-2023,1.81,9,10,64.9,1
+327,UAE,49,Other,Undergraduate,Data Science,Udemy,Tablet,Instructor-Led,09-05-2023,5.28,14,3,36.25,3
+328,Pakistan,17,Female,Postgraduate,Medicine,edX,Laptop,Self-Paced,01-04-2023,0.91,5,8,98.68,1
+329,Canada,35,Other,High School,Data Science,Udacity,Tablet,Instructor-Led,27-10-2023,0.53,14,2,87.68,1
+330,Canada,48,Male,Undergraduate,Arts,Udacity,Desktop,Self-Paced,21-10-2023,0.9,10,8,64.01,2
+331,France,28,Other,Professional,Medicine,YouTube Learning,Mobile,Self-Paced,28-06-2023,1.67,10,5,37.7,3
+332,Germany,17,Other,Postgraduate,Arts,Coursera,Desktop,Instructor-Led,09-12-2023,1.82,20,9,47.68,5
+333,UAE,47,Female,Professional,Computer Science,edX,Laptop,Instructor-Led,04-10-2023,0.64,16,5,77.92,5
+334,Brazil,19,Male,Undergraduate,Data Science,Khan Academy,Mobile,Self-Paced,21-09-2023,1.03,17,8,26.59,1
+335,South Africa,24,Male,Professional,Data Science,edX,Mobile,Self-Paced,03-10-2023,5.33,13,10,86.3,1
+336,Germany,31,Female,Professional,Arts,YouTube Learning,Desktop,Instructor-Led,07-02-2023,4.87,17,1,24.34,5
+337,UK,17,Other,High School,Engineering,Udacity,Mobile,Instructor-Led,11-06-2023,4.2,17,0,21.35,5
+338,Brazil,16,Female,Undergraduate,Medicine,Udemy,Laptop,Hybrid,18-12-2023,0.98,14,6,44.11,4
+339,France,38,Male,Undergraduate,Computer Science,Coursera,Mobile,Hybrid,20-07-2023,5.17,9,10,83.74,2
+340,South Africa,37,Male,Professional,Data Science,Udacity,Laptop,Self-Paced,02-11-2023,3.51,2,4,51.53,2
+341,Brazil,18,Other,Professional,Data Science,Udacity,Mobile,Instructor-Led,05-04-2023,5.09,6,1,37.66,2
+342,India,23,Other,Undergraduate,Computer Science,edX,Mobile,Self-Paced,10-12-2023,1.04,18,7,25.39,3
+343,Australia,38,Female,Professional,Business,Coursera,Tablet,Self-Paced,12-06-2023,2.31,9,9,58.87,2
+344,Brazil,36,Female,Professional,Arts,edX,Tablet,Instructor-Led,24-04-2023,4.02,8,5,76.98,2
+345,Japan,27,Female,High School,Data Science,Coursera,Mobile,Hybrid,10-10-2023,4.05,2,4,28.71,2
+346,USA,50,Female,Professional,Data Science,Udemy,Tablet,Instructor-Led,20-11-2023,3.7,12,9,22.5,2
+347,Japan,47,Male,Professional,Engineering,Udacity,Mobile,Hybrid,25-04-2023,3.74,9,2,91.32,4
+348,UAE,47,Male,Professional,Business,Udemy,Laptop,Hybrid,03-05-2023,4.94,19,10,87.84,2
+349,France,38,Male,High School,Data Science,Udemy,Tablet,Instructor-Led,05-09-2023,0.72,15,3,95.13,1
+350,UK,48,Other,Postgraduate,Data Science,edX,Laptop,Instructor-Led,29-08-2023,5.35,1,10,93.43,3
+351,Pakistan,29,Other,Professional,Engineering,edX,Desktop,Instructor-Led,01-12-2023,3.73,2,8,50.28,3
+352,UK,47,Other,Postgraduate,Business,Udemy,Laptop,Self-Paced,06-11-2023,5.35,14,2,20.53,2
+353,South Africa,22,Female,Professional,Arts,Udemy,Laptop,Hybrid,05-07-2023,4.99,7,6,68.16,3
+354,Canada,47,Male,Undergraduate,Computer Science,Udemy,Tablet,Self-Paced,30-07-2023,0.74,18,9,21.8,2
+355,South Africa,33,Male,Undergraduate,Arts,Udacity,Desktop,Instructor-Led,22-09-2023,3.8,18,10,96.66,1
+356,Australia,47,Female,Undergraduate,Data Science,YouTube Learning,Tablet,Instructor-Led,29-03-2023,2.76,4,9,37.55,2
+357,USA,27,Other,Professional,Business,Udacity,Mobile,Self-Paced,02-11-2023,1.76,12,2,67.25,1
+358,UK,45,Other,Undergraduate,Medicine,Udacity,Mobile,Hybrid,01-09-2023,3.8,17,8,92.13,1
+359,Germany,45,Female,Postgraduate,Medicine,YouTube Learning,Mobile,Instructor-Led,29-11-2023,2.81,1,8,54.52,4
+360,Japan,41,Female,Undergraduate,Computer Science,YouTube Learning,Mobile,Hybrid,10-03-2023,4.71,2,4,40.36,5
+361,Pakistan,38,Male,Undergraduate,Arts,YouTube Learning,Tablet,Instructor-Led,25-09-2023,0.54,20,3,29.43,3
+362,UAE,28,Female,Professional,Business,edX,Desktop,Instructor-Led,02-10-2023,2.51,8,10,53.88,4
+363,South Africa,29,Female,Undergraduate,Computer Science,Udemy,Desktop,Instructor-Led,07-06-2023,4.76,12,2,66.21,1
+364,Brazil,15,Male,Undergraduate,Arts,Udacity,Desktop,Self-Paced,09-10-2023,4.27,1,2,69.12,4
+365,Pakistan,48,Female,High School,Business,YouTube Learning,Desktop,Instructor-Led,02-02-2023,2.54,19,0,41.05,4
+366,USA,47,Other,Undergraduate,Medicine,Udemy,Mobile,Instructor-Led,06-01-2023,4.11,16,4,36.14,2
+367,India,40,Female,Undergraduate,Medicine,Coursera,Mobile,Self-Paced,03-05-2023,5.87,2,4,72.4,4
+368,France,29,Other,Undergraduate,Arts,Khan Academy,Mobile,Instructor-Led,09-10-2023,5.06,18,5,42.76,3
+369,India,22,Other,Postgraduate,Medicine,Udacity,Tablet,Hybrid,31-03-2023,1.09,2,8,52.57,3
+370,Brazil,44,Other,High School,Arts,Coursera,Tablet,Self-Paced,15-08-2023,3.6,7,5,97.28,4
+371,India,48,Other,High School,Data Science,edX,Laptop,Instructor-Led,15-07-2023,5.97,7,5,70.69,4
+372,Canada,45,Female,Postgraduate,Business,Udacity,Tablet,Self-Paced,17-02-2023,4.62,10,1,51.91,5
+373,France,28,Male,Undergraduate,Business,Udacity,Tablet,Self-Paced,16-12-2023,1.55,6,3,94.42,2
+374,UAE,49,Male,Professional,Engineering,Udacity,Tablet,Instructor-Led,24-02-2023,0.93,15,9,29.59,1
+375,Germany,23,Male,Professional,Arts,Udacity,Mobile,Hybrid,22-10-2023,3.2,16,4,89.5,4
+376,South Africa,48,Female,Postgraduate,Data Science,Coursera,Mobile,Hybrid,27-06-2023,4.27,5,7,51.5,1
+377,Canada,50,Female,Undergraduate,Engineering,Khan Academy,Tablet,Instructor-Led,18-04-2023,1.05,11,9,50.35,3
+378,France,43,Male,Undergraduate,Medicine,YouTube Learning,Laptop,Self-Paced,05-04-2023,1.66,11,5,59.9,4
+379,UAE,24,Female,High School,Business,Khan Academy,Desktop,Self-Paced,19-05-2023,3.55,12,3,84.33,2
+380,Japan,18,Female,High School,Data Science,Udemy,Mobile,Self-Paced,19-11-2023,4.46,15,4,61.36,3
+381,India,38,Other,Postgraduate,Engineering,Coursera,Desktop,Self-Paced,11-05-2023,3.96,14,5,58.12,3
+382,Brazil,49,Male,Postgraduate,Engineering,edX,Desktop,Hybrid,29-06-2023,5.8,6,9,89.39,5
+383,Canada,36,Female,Professional,Computer Science,Coursera,Laptop,Instructor-Led,17-08-2023,2.6,9,7,91.17,2
+384,France,43,Female,Professional,Arts,Udemy,Laptop,Self-Paced,27-04-2023,4.09,8,9,45.08,4
+385,Pakistan,21,Male,High School,Arts,Udacity,Mobile,Self-Paced,06-03-2023,4.14,2,3,78.22,2
+386,Canada,20,Other,Professional,Engineering,Udemy,Laptop,Hybrid,23-07-2023,5.98,3,4,61.92,5
+387,USA,37,Female,Professional,Arts,Udacity,Tablet,Hybrid,26-05-2023,1.2,16,2,55.45,1
+388,Australia,44,Other,Professional,Medicine,YouTube Learning,Tablet,Instructor-Led,16-08-2023,5.72,17,2,30.81,5
+389,Pakistan,31,Male,Postgraduate,Computer Science,Coursera,Laptop,Instructor-Led,04-09-2023,4.93,14,4,63.17,3
+390,USA,42,Female,Undergraduate,Computer Science,Udacity,Tablet,Self-Paced,27-05-2023,0.55,15,7,57.54,3
+391,Pakistan,29,Female,High School,Arts,YouTube Learning,Laptop,Hybrid,30-07-2023,2.9,7,2,90.57,4
+392,UAE,32,Female,Undergraduate,Computer Science,Udemy,Laptop,Instructor-Led,10-11-2023,4.27,9,10,84.61,5
+393,Germany,35,Male,Undergraduate,Computer Science,Udacity,Mobile,Self-Paced,26-02-2023,3.9,8,9,70.95,4
+394,UK,24,Male,Professional,Business,edX,Desktop,Instructor-Led,22-02-2023,1.19,14,0,42.57,2
+395,UAE,24,Male,Postgraduate,Arts,Coursera,Desktop,Self-Paced,13-09-2023,3.05,1,5,99.84,1
+396,UAE,30,Female,Professional,Business,YouTube Learning,Mobile,Self-Paced,09-04-2023,1.88,12,0,91.66,1
+397,Brazil,34,Female,Undergraduate,Data Science,YouTube Learning,Mobile,Hybrid,24-08-2023,1.02,6,7,78.83,4
+398,India,18,Other,Undergraduate,Computer Science,Udemy,Desktop,Instructor-Led,09-10-2023,1.89,20,4,61.67,2
+399,USA,17,Other,Professional,Data Science,Udacity,Laptop,Instructor-Led,08-01-2023,2.02,3,6,33.39,2
+400,USA,37,Other,Undergraduate,Data Science,Udacity,Mobile,Self-Paced,15-02-2023,3.25,19,5,39.9,1
+401,South Africa,27,Male,Professional,Engineering,YouTube Learning,Laptop,Instructor-Led,07-09-2023,5.9,20,5,38.61,4
+402,Germany,26,Other,Postgraduate,Engineering,YouTube Learning,Desktop,Instructor-Led,21-01-2023,2.91,9,8,58.82,4
+403,China,33,Female,Postgraduate,Arts,Coursera,Desktop,Hybrid,03-11-2023,3.55,2,8,93.16,2
+404,India,19,Other,Professional,Business,Udacity,Desktop,Hybrid,05-04-2023,3.91,11,9,90.63,2
+405,UK,48,Other,High School,Computer Science,Udemy,Laptop,Self-Paced,20-03-2023,2.27,20,5,69.04,1
+406,Brazil,46,Other,Postgraduate,Computer Science,edX,Laptop,Hybrid,14-04-2023,1.55,1,9,28.56,4
+407,China,18,Female,Professional,Engineering,YouTube Learning,Mobile,Hybrid,06-02-2023,5.57,20,7,21.05,1
+408,Japan,21,Male,Undergraduate,Medicine,Khan Academy,Laptop,Self-Paced,17-05-2023,4.54,9,1,62.32,2
+409,Pakistan,21,Other,Postgraduate,Data Science,Khan Academy,Desktop,Self-Paced,27-09-2023,3.64,5,8,72.55,5
+410,Japan,43,Female,Postgraduate,Medicine,edX,Tablet,Instructor-Led,27-03-2023,3.52,16,5,83.4,2
+411,Japan,28,Female,Postgraduate,Engineering,Khan Academy,Desktop,Instructor-Led,21-11-2023,4.49,19,3,54.45,5
+412,Canada,34,Male,Postgraduate,Business,Udemy,Tablet,Self-Paced,01-01-2023,5.91,19,0,78.11,5
+413,Australia,24,Male,High School,Arts,edX,Laptop,Self-Paced,20-12-2023,5.56,16,8,85.79,5
+414,UK,40,Other,Undergraduate,Data Science,Coursera,Tablet,Instructor-Led,16-05-2023,3.7,7,4,49.37,3
+415,Brazil,34,Male,Professional,Computer Science,Coursera,Tablet,Instructor-Led,30-03-2023,5.44,18,1,59.06,5
+416,USA,39,Male,Postgraduate,Medicine,Coursera,Tablet,Hybrid,11-08-2023,5.27,7,10,53.32,5
+417,Brazil,40,Female,High School,Business,Khan Academy,Tablet,Instructor-Led,17-10-2023,3.26,7,2,31.97,1
+418,Pakistan,31,Male,Professional,Medicine,Khan Academy,Laptop,Self-Paced,17-03-2023,0.95,18,0,30.58,5
+419,Japan,48,Male,Undergraduate,Computer Science,edX,Desktop,Instructor-Led,04-09-2023,3.18,20,9,64.74,2
+420,India,27,Female,Postgraduate,Medicine,YouTube Learning,Mobile,Instructor-Led,17-12-2023,0.99,13,6,93.93,3
+421,China,17,Male,Undergraduate,Data Science,edX,Laptop,Hybrid,28-03-2023,3.89,14,9,99.01,2
+422,USA,36,Other,High School,Engineering,Khan Academy,Desktop,Self-Paced,13-02-2023,0.8,19,2,28.99,3
+423,UAE,31,Other,Professional,Medicine,YouTube Learning,Laptop,Hybrid,19-06-2023,3.46,6,8,36.72,5
+424,Canada,18,Female,Undergraduate,Data Science,Udacity,Tablet,Self-Paced,24-12-2023,2.57,16,0,73.46,3
+425,Brazil,38,Male,High School,Engineering,YouTube Learning,Desktop,Self-Paced,27-08-2023,0.55,12,10,72.38,3
+426,Japan,20,Male,Undergraduate,Medicine,Khan Academy,Mobile,Self-Paced,14-07-2023,4.4,10,7,60.68,5
+427,USA,37,Other,Postgraduate,Engineering,YouTube Learning,Tablet,Self-Paced,07-05-2023,2.18,15,6,93.78,2
+428,Japan,32,Male,Undergraduate,Engineering,Khan Academy,Laptop,Self-Paced,14-09-2023,0.84,8,6,42.07,1
+429,Pakistan,30,Other,Undergraduate,Arts,edX,Tablet,Instructor-Led,15-07-2023,4.23,20,10,61.66,2
+430,Canada,34,Other,Undergraduate,Arts,Udemy,Laptop,Instructor-Led,05-10-2023,4.09,18,8,30.54,2
+431,Canada,16,Female,Professional,Arts,edX,Desktop,Hybrid,04-02-2023,5.72,3,2,64.59,3
+432,Canada,16,Other,Postgraduate,Medicine,Udacity,Laptop,Hybrid,23-11-2023,2.01,6,1,94.66,2
+433,Japan,45,Other,Postgraduate,Business,Khan Academy,Desktop,Instructor-Led,29-04-2023,0.64,2,7,38.47,2
+434,Pakistan,29,Other,Undergraduate,Business,Coursera,Laptop,Instructor-Led,12-03-2023,1.74,13,0,33.1,3
+435,Pakistan,17,Other,Professional,Data Science,edX,Desktop,Hybrid,12-11-2023,2.29,14,3,59.2,4
+436,China,44,Male,Undergraduate,Medicine,Udacity,Desktop,Hybrid,20-10-2023,3.39,1,8,67.5,1
+437,France,43,Female,Postgraduate,Engineering,Khan Academy,Laptop,Instructor-Led,21-01-2023,3.34,20,0,64.62,2
+438,Brazil,43,Male,High School,Business,Udacity,Laptop,Instructor-Led,31-05-2023,0.8,16,2,69.05,4
+439,China,20,Female,Postgraduate,Data Science,YouTube Learning,Laptop,Hybrid,31-07-2023,0.64,14,9,45.88,2
+440,Japan,39,Other,Undergraduate,Arts,Udacity,Desktop,Self-Paced,05-03-2023,4.38,20,5,27.3,1
+441,Canada,18,Female,Postgraduate,Engineering,YouTube Learning,Desktop,Instructor-Led,29-03-2023,3.61,4,2,92.98,2
+442,UAE,31,Male,Professional,Arts,Khan Academy,Mobile,Hybrid,17-11-2023,5.44,6,0,34.46,5
+443,China,20,Other,High School,Business,Udacity,Tablet,Hybrid,10-09-2023,3.74,15,7,39.03,4
+444,USA,37,Male,Undergraduate,Computer Science,YouTube Learning,Tablet,Instructor-Led,18-11-2023,5.04,1,2,64.6,2
+445,Australia,50,Male,Professional,Data Science,Udacity,Tablet,Self-Paced,14-02-2023,2.79,5,2,23.92,3
+446,Japan,19,Female,Professional,Business,Coursera,Tablet,Instructor-Led,17-02-2023,2.28,12,1,81.48,4
+447,UK,48,Male,Professional,Data Science,YouTube Learning,Tablet,Instructor-Led,27-09-2023,1.65,6,9,53.1,1
+448,Canada,46,Other,Professional,Arts,Udemy,Laptop,Hybrid,08-11-2023,1.93,18,9,87.82,3
+449,South Africa,28,Other,Professional,Arts,Coursera,Tablet,Instructor-Led,29-05-2023,0.51,0,7,98.34,1
+450,France,19,Female,Postgraduate,Medicine,Udacity,Tablet,Self-Paced,14-10-2023,1.67,20,3,84.48,3
+451,Canada,27,Female,Postgraduate,Data Science,Khan Academy,Desktop,Self-Paced,28-02-2023,2.38,18,9,74.87,1
+452,China,41,Other,High School,Medicine,edX,Tablet,Hybrid,27-11-2023,1.35,14,8,30.86,3
+453,Canada,32,Male,Postgraduate,Arts,YouTube Learning,Laptop,Hybrid,02-10-2023,3.68,10,5,21.5,1
+454,France,41,Male,Professional,Business,edX,Desktop,Instructor-Led,07-11-2023,3.77,9,5,51.17,1
+455,UK,43,Other,High School,Arts,Udacity,Laptop,Self-Paced,21-04-2023,1.46,11,0,62.01,2
+456,Canada,21,Other,Undergraduate,Business,YouTube Learning,Mobile,Instructor-Led,24-06-2023,4.53,16,4,93.89,3
+457,Brazil,20,Female,Professional,Computer Science,Coursera,Tablet,Self-Paced,18-07-2023,3.37,0,4,77.09,1
+458,Germany,33,Female,Postgraduate,Arts,YouTube Learning,Mobile,Instructor-Led,23-10-2023,4.01,6,5,80.68,2
+459,UK,28,Other,Postgraduate,Medicine,edX,Tablet,Self-Paced,18-03-2023,1.13,19,8,32.6,5
+460,Australia,36,Other,Professional,Computer Science,Udemy,Mobile,Instructor-Led,27-12-2023,3.66,5,1,84.32,3
+461,Canada,43,Other,Postgraduate,Engineering,edX,Laptop,Hybrid,12-12-2023,2.61,2,6,24.04,4
+462,UK,44,Male,Professional,Engineering,YouTube Learning,Desktop,Instructor-Led,10-12-2023,0.93,14,9,84.74,2
+463,Pakistan,26,Other,Postgraduate,Engineering,Khan Academy,Desktop,Self-Paced,29-04-2023,1.29,19,4,95.8,3
+464,UAE,37,Other,Undergraduate,Medicine,Coursera,Desktop,Hybrid,03-02-2023,2.43,14,2,58.03,3
+465,Pakistan,41,Male,Undergraduate,Medicine,Udemy,Desktop,Instructor-Led,24-02-2023,4.07,9,8,46.07,4
+466,Australia,36,Other,Undergraduate,Business,YouTube Learning,Mobile,Hybrid,03-02-2023,4.98,18,6,47.26,4
+467,India,50,Male,Professional,Business,edX,Desktop,Self-Paced,31-12-2023,3.18,18,9,65.94,4
+468,Brazil,18,Male,Undergraduate,Business,Udacity,Mobile,Self-Paced,03-11-2023,4.98,12,5,28.7,4
+469,China,27,Male,Postgraduate,Engineering,Udacity,Tablet,Instructor-Led,05-12-2023,3.42,12,9,31.94,5
+470,Canada,33,Male,Postgraduate,Medicine,Coursera,Mobile,Hybrid,26-06-2023,3.7,19,8,99.22,4
+471,Pakistan,40,Other,Postgraduate,Data Science,Khan Academy,Desktop,Instructor-Led,14-10-2023,2.48,9,0,85.66,2
+472,Japan,39,Female,Professional,Business,edX,Laptop,Self-Paced,11-08-2023,4.14,15,2,63.61,2
+473,Canada,20,Male,Professional,Arts,YouTube Learning,Desktop,Hybrid,06-01-2023,0.59,15,10,25.74,4
+474,Germany,26,Female,High School,Medicine,Khan Academy,Laptop,Hybrid,03-04-2023,2.83,14,6,56.35,3
+475,USA,45,Other,Postgraduate,Computer Science,Udacity,Desktop,Hybrid,14-09-2023,5.6,18,5,41.54,1
+476,UK,48,Other,High School,Business,Khan Academy,Mobile,Hybrid,10-02-2023,4.52,8,7,31.37,5
+477,Japan,15,Female,Professional,Medicine,Khan Academy,Tablet,Instructor-Led,21-11-2023,3.69,19,0,63.14,3
+478,South Africa,34,Other,Postgraduate,Computer Science,YouTube Learning,Desktop,Hybrid,30-06-2023,4.89,9,2,96.85,1
+479,France,46,Male,Undergraduate,Medicine,Coursera,Tablet,Instructor-Led,28-03-2023,4.11,9,9,65.83,1
+480,Australia,26,Other,Undergraduate,Data Science,Khan Academy,Tablet,Self-Paced,09-03-2023,2.01,8,0,69.26,1
+481,India,20,Male,Undergraduate,Arts,Khan Academy,Desktop,Self-Paced,14-05-2023,1.8,5,8,82.6,1
+482,USA,31,Male,High School,Business,Khan Academy,Desktop,Instructor-Led,05-12-2023,4.01,6,9,55.21,3
+483,Brazil,39,Female,Postgraduate,Business,Udacity,Desktop,Self-Paced,04-06-2023,5.72,17,3,58.1,4
+484,UK,49,Other,Postgraduate,Arts,Udacity,Tablet,Instructor-Led,28-05-2023,2.97,10,8,94.18,1
+485,China,30,Other,Undergraduate,Medicine,edX,Laptop,Instructor-Led,19-05-2023,1.04,20,9,41.37,4
+486,UK,48,Male,Professional,Engineering,Udemy,Tablet,Instructor-Led,08-10-2023,0.55,2,0,20.85,4
+487,Australia,22,Other,High School,Computer Science,Udacity,Laptop,Instructor-Led,09-04-2023,3.91,1,9,22.72,2
+488,France,33,Female,High School,Data Science,Khan Academy,Tablet,Instructor-Led,03-12-2023,4.06,5,1,81.11,2
+489,UAE,19,Female,High School,Arts,Khan Academy,Tablet,Self-Paced,21-12-2023,4.73,10,4,92.27,2
+490,Germany,40,Male,Professional,Computer Science,Udemy,Desktop,Self-Paced,13-05-2023,1.96,14,1,96.45,4
+491,UK,19,Other,Postgraduate,Arts,Coursera,Desktop,Self-Paced,11-11-2023,5.52,8,1,71.47,1
+492,South Africa,36,Female,High School,Medicine,YouTube Learning,Desktop,Instructor-Led,01-12-2023,5.63,12,4,71.23,2
+493,USA,39,Other,Professional,Computer Science,Udacity,Tablet,Instructor-Led,12-08-2023,4.5,2,8,52.31,2
+494,Japan,36,Male,Professional,Engineering,YouTube Learning,Laptop,Self-Paced,16-12-2023,0.8,20,1,44.23,3
+495,UK,37,Female,High School,Data Science,Khan Academy,Laptop,Self-Paced,11-10-2023,2.61,6,4,23.15,4
+496,Pakistan,19,Other,Postgraduate,Arts,Udacity,Desktop,Self-Paced,19-01-2023,4.46,18,3,35.45,4
+497,Germany,48,Female,Undergraduate,Data Science,Udacity,Laptop,Self-Paced,19-01-2023,2.36,1,6,47.14,1
+498,USA,30,Other,Undergraduate,Computer Science,Udemy,Mobile,Instructor-Led,19-01-2023,3.19,0,7,78.84,5
+499,UK,46,Other,Undergraduate,Computer Science,Udemy,Desktop,Instructor-Led,19-02-2023,1.44,18,1,56.49,1
+500,India,28,Male,Undergraduate,Engineering,Coursera,Mobile,Instructor-Led,14-12-2023,1.16,18,8,52.16,2
+501,China,30,Other,High School,Business,Coursera,Desktop,Self-Paced,14-03-2023,1.42,11,8,80.6,2
+502,South Africa,33,Female,Professional,Data Science,Udemy,Laptop,Self-Paced,09-01-2023,0.94,0,2,90.37,1
+503,South Africa,17,Other,Undergraduate,Data Science,Khan Academy,Mobile,Hybrid,24-11-2023,2.98,7,2,41.68,5
+504,Japan,21,Other,Postgraduate,Medicine,Udacity,Laptop,Instructor-Led,04-06-2023,0.53,7,3,47.83,1
+505,Brazil,45,Female,Undergraduate,Business,YouTube Learning,Mobile,Self-Paced,17-11-2023,2.02,6,1,72.75,2
+506,UAE,44,Male,High School,Data Science,Coursera,Laptop,Self-Paced,27-11-2023,1.65,8,5,49.14,5
+507,Australia,35,Female,Undergraduate,Data Science,YouTube Learning,Tablet,Self-Paced,15-01-2023,1.14,7,7,58.8,5
+508,Germany,19,Female,Professional,Computer Science,Khan Academy,Laptop,Self-Paced,26-02-2023,1.04,13,3,46.09,4
+509,Brazil,37,Female,Undergraduate,Engineering,Udemy,Mobile,Hybrid,09-11-2023,2.63,4,7,56.4,2
+510,Canada,36,Male,Postgraduate,Medicine,Udemy,Laptop,Hybrid,19-10-2023,1.25,14,7,24.77,4
+511,Australia,45,Female,Postgraduate,Computer Science,YouTube Learning,Desktop,Hybrid,11-10-2023,0.98,16,7,88.4,2
+512,Australia,15,Female,High School,Computer Science,Khan Academy,Mobile,Instructor-Led,07-05-2023,2.89,7,9,39.83,2
+513,Germany,20,Other,High School,Data Science,YouTube Learning,Desktop,Self-Paced,29-09-2023,4.95,3,7,51.55,4
+514,Brazil,34,Male,Professional,Medicine,YouTube Learning,Mobile,Instructor-Led,09-03-2023,1.81,2,0,48.67,4
+515,Brazil,44,Other,High School,Data Science,Coursera,Desktop,Hybrid,26-08-2023,5.31,12,2,81.75,3
+516,Australia,28,Other,High School,Medicine,edX,Mobile,Hybrid,20-06-2023,2.13,8,9,62.47,5
+517,Australia,17,Female,Postgraduate,Business,YouTube Learning,Mobile,Hybrid,12-12-2023,0.78,12,5,49.12,4
+518,UK,45,Other,Undergraduate,Data Science,Udemy,Tablet,Instructor-Led,30-12-2023,1.26,10,3,81.89,5
+519,India,43,Female,High School,Arts,YouTube Learning,Tablet,Instructor-Led,17-05-2023,2.83,1,1,60.29,3
+520,UK,20,Female,Undergraduate,Engineering,Coursera,Mobile,Self-Paced,14-11-2023,4.2,2,3,49.45,4
+521,Brazil,16,Female,Professional,Data Science,Udacity,Laptop,Instructor-Led,22-05-2023,1.31,4,3,28.96,5
+522,UK,16,Male,Postgraduate,Arts,Udacity,Tablet,Hybrid,27-06-2023,4.56,0,4,53.61,2
+523,China,34,Other,Undergraduate,Engineering,Udemy,Tablet,Self-Paced,27-11-2023,3.17,16,8,82.95,4
+524,France,44,Male,Undergraduate,Data Science,Udacity,Tablet,Self-Paced,05-09-2023,2.08,1,2,49.75,3
+525,UK,17,Female,Undergraduate,Arts,edX,Tablet,Self-Paced,31-03-2023,4.31,4,2,87.15,2
+526,India,43,Other,Undergraduate,Medicine,edX,Mobile,Self-Paced,16-04-2023,0.69,10,5,65,2
+527,USA,49,Other,Postgraduate,Data Science,YouTube Learning,Tablet,Instructor-Led,27-07-2023,4.73,14,5,94.49,2
+528,UAE,43,Female,High School,Data Science,Khan Academy,Mobile,Self-Paced,29-05-2023,4.65,18,10,97.57,2
+529,China,37,Male,Postgraduate,Computer Science,Udacity,Laptop,Hybrid,14-12-2023,2.19,12,9,64.08,2
+530,UK,49,Female,High School,Medicine,Khan Academy,Laptop,Instructor-Led,27-09-2023,5.65,8,3,37.77,1
+531,Pakistan,24,Other,Professional,Engineering,Khan Academy,Tablet,Self-Paced,12-06-2023,3.31,1,10,68.25,3
+532,Germany,43,Other,Professional,Arts,edX,Laptop,Hybrid,26-05-2023,2.19,14,8,47.59,1
+533,Canada,28,Female,Professional,Medicine,edX,Mobile,Hybrid,06-08-2023,2.78,18,9,78.29,1
+534,Japan,44,Other,Undergraduate,Business,Udemy,Desktop,Instructor-Led,12-07-2023,2.75,8,6,27.08,2
+535,China,50,Other,Professional,Business,Coursera,Mobile,Self-Paced,11-10-2023,5.03,9,9,59.25,3
+536,Brazil,33,Female,Undergraduate,Arts,YouTube Learning,Laptop,Self-Paced,15-05-2023,4.02,20,7,44.01,1
+537,Australia,45,Other,Professional,Engineering,YouTube Learning,Desktop,Hybrid,03-03-2023,3.21,2,9,81.18,3
+538,Australia,18,Male,Postgraduate,Arts,YouTube Learning,Laptop,Instructor-Led,03-03-2023,4.53,0,4,49.86,2
+539,France,33,Other,High School,Medicine,Udemy,Laptop,Self-Paced,25-03-2023,2.49,20,5,24.23,1
+540,France,38,Male,Postgraduate,Business,Coursera,Laptop,Hybrid,03-11-2023,3.49,10,10,80.21,3
+541,Germany,24,Other,Undergraduate,Business,Udacity,Mobile,Instructor-Led,25-05-2023,3.17,10,2,49.84,1
+542,India,34,Other,Postgraduate,Business,Khan Academy,Tablet,Self-Paced,24-08-2023,1.14,4,0,93.28,4
+543,South Africa,24,Other,Undergraduate,Engineering,Udemy,Laptop,Self-Paced,30-12-2023,4.59,3,3,44.37,2
+544,UAE,45,Female,High School,Business,Coursera,Mobile,Hybrid,10-02-2023,4.7,3,1,53.98,1
+545,France,15,Male,High School,Medicine,Udemy,Laptop,Self-Paced,20-09-2023,3.08,8,0,67.45,1
+546,India,25,Other,Undergraduate,Medicine,Udacity,Mobile,Self-Paced,10-12-2023,1,8,9,48.12,3
+547,UAE,49,Male,High School,Business,Udacity,Desktop,Instructor-Led,24-10-2023,3.41,6,4,81.06,2
+548,Pakistan,42,Male,Undergraduate,Arts,Coursera,Tablet,Self-Paced,24-12-2023,2.92,3,2,67.15,3
+549,South Africa,17,Male,Postgraduate,Arts,Coursera,Desktop,Instructor-Led,27-08-2023,1.25,11,4,28.83,5
+550,Pakistan,33,Female,Undergraduate,Computer Science,Khan Academy,Tablet,Self-Paced,22-08-2023,2.22,14,3,68.03,5
+551,Japan,20,Male,Undergraduate,Arts,Khan Academy,Mobile,Hybrid,07-01-2023,3.2,3,6,99.9,4
+552,Pakistan,22,Male,Professional,Data Science,Khan Academy,Tablet,Hybrid,28-03-2023,5.86,10,3,25.18,5
+553,China,40,Female,Postgraduate,Business,Khan Academy,Mobile,Self-Paced,25-10-2023,4.66,20,6,67.49,3
+554,South Africa,18,Male,Professional,Data Science,Coursera,Laptop,Instructor-Led,09-05-2023,1.77,4,0,59.15,1
+555,UAE,19,Other,Professional,Arts,Udemy,Tablet,Hybrid,06-11-2023,1.34,19,9,74.34,1
+556,USA,17,Female,High School,Arts,Khan Academy,Tablet,Instructor-Led,12-09-2023,1.94,10,8,59.22,5
+557,South Africa,25,Female,Professional,Business,edX,Desktop,Instructor-Led,15-08-2023,0.68,17,10,56.77,3
+558,Australia,45,Female,Undergraduate,Medicine,Coursera,Desktop,Instructor-Led,26-02-2023,3.2,17,10,65.51,5
+559,USA,16,Other,High School,Business,edX,Tablet,Hybrid,11-09-2023,2.58,11,4,67.28,3
+560,Pakistan,37,Female,Professional,Engineering,Coursera,Laptop,Self-Paced,26-10-2023,5.4,10,6,22.15,1
+561,India,25,Male,Postgraduate,Computer Science,Khan Academy,Desktop,Hybrid,01-05-2023,3.76,2,4,71.85,1
+562,India,39,Other,Professional,Engineering,Udacity,Mobile,Instructor-Led,21-09-2023,1.97,15,9,92.11,1
+563,Canada,34,Female,Professional,Business,Khan Academy,Mobile,Hybrid,21-02-2023,1.63,15,8,75.27,3
+564,Australia,20,Other,High School,Medicine,edX,Tablet,Self-Paced,20-04-2023,0.76,18,6,42.99,2
+565,Brazil,34,Other,Postgraduate,Arts,YouTube Learning,Tablet,Self-Paced,18-10-2023,3.11,6,5,84.09,1
+566,Canada,16,Other,Undergraduate,Medicine,Khan Academy,Laptop,Hybrid,01-08-2023,3.94,14,10,52.18,5
+567,South Africa,18,Other,Undergraduate,Engineering,Khan Academy,Laptop,Self-Paced,28-08-2023,4.01,19,6,41.43,5
+568,UK,28,Female,Postgraduate,Engineering,YouTube Learning,Laptop,Instructor-Led,19-03-2023,4.71,13,6,79.71,3
+569,USA,30,Female,Professional,Arts,Udacity,Desktop,Instructor-Led,18-12-2023,2.73,3,2,68.1,2
+570,France,32,Other,Undergraduate,Data Science,Coursera,Desktop,Self-Paced,28-11-2023,1.61,8,2,92.45,1
+571,Pakistan,38,Other,High School,Arts,YouTube Learning,Laptop,Self-Paced,29-01-2023,0.96,19,4,88.77,1
+572,UAE,48,Female,Professional,Computer Science,Udemy,Mobile,Instructor-Led,27-02-2023,3.25,3,8,65.68,5
+573,Canada,21,Male,Undergraduate,Engineering,Khan Academy,Desktop,Instructor-Led,18-06-2023,4.55,7,6,86.59,2
+574,Pakistan,45,Other,Undergraduate,Engineering,Udemy,Tablet,Instructor-Led,29-10-2023,3.43,3,5,24.47,5
+575,South Africa,30,Female,Professional,Engineering,YouTube Learning,Tablet,Hybrid,08-07-2023,0.62,19,0,85.71,1
+576,Pakistan,31,Female,High School,Business,edX,Laptop,Self-Paced,04-03-2023,1.8,14,6,62.79,1
+577,France,20,Female,Professional,Data Science,Khan Academy,Tablet,Hybrid,13-08-2023,5.34,20,6,70.51,1
+578,UK,37,Female,Postgraduate,Arts,YouTube Learning,Mobile,Self-Paced,05-08-2023,5.01,5,4,90.14,5
+579,Pakistan,27,Other,Postgraduate,Engineering,Udacity,Mobile,Self-Paced,25-11-2023,3.97,20,2,71.33,1
+580,Brazil,41,Female,Professional,Arts,YouTube Learning,Laptop,Instructor-Led,22-03-2023,4.42,20,2,39.97,5
+581,Pakistan,38,Male,Professional,Arts,Udacity,Laptop,Self-Paced,30-03-2023,5.05,9,3,75,1
+582,China,27,Female,Undergraduate,Computer Science,Khan Academy,Desktop,Hybrid,12-01-2023,4.06,20,3,93.85,1
+583,USA,48,Female,Professional,Data Science,Khan Academy,Mobile,Self-Paced,14-05-2023,5.77,5,9,31.94,1
+584,Pakistan,23,Female,Undergraduate,Medicine,Udemy,Tablet,Hybrid,01-01-2024,5.7,8,4,36.25,4
+585,France,30,Other,Professional,Business,edX,Desktop,Self-Paced,13-12-2023,1.49,4,0,35.15,3
+586,South Africa,39,Other,Professional,Data Science,Udacity,Tablet,Self-Paced,06-01-2023,5.29,12,10,57.51,2
+587,Australia,17,Male,Postgraduate,Medicine,Udacity,Desktop,Instructor-Led,18-02-2023,0.79,7,7,64.56,3
+588,Canada,31,Male,Professional,Engineering,Khan Academy,Laptop,Self-Paced,22-07-2023,1.23,17,0,73.7,5
+589,USA,23,Female,Postgraduate,Data Science,edX,Desktop,Instructor-Led,12-06-2023,2.88,8,1,76.82,3
+590,Pakistan,25,Female,Professional,Business,Udacity,Desktop,Self-Paced,15-05-2023,4.69,8,8,69.03,3
+591,Canada,44,Female,High School,Arts,Coursera,Desktop,Instructor-Led,07-04-2023,1.76,1,7,31.89,3
+592,India,20,Male,Postgraduate,Business,Udemy,Tablet,Hybrid,30-12-2023,3.02,3,2,64.87,1
+593,Canada,41,Male,Undergraduate,Arts,YouTube Learning,Mobile,Instructor-Led,06-12-2023,3.71,0,8,66.85,5
+594,Australia,21,Female,Undergraduate,Computer Science,Coursera,Desktop,Hybrid,14-01-2023,5.9,3,6,42.74,3
+595,India,17,Other,Professional,Engineering,YouTube Learning,Laptop,Self-Paced,04-12-2023,3.96,8,9,58.39,1
+596,Australia,39,Male,Professional,Engineering,Udemy,Laptop,Instructor-Led,25-01-2023,2.06,1,1,84.12,5
+597,Brazil,24,Male,Postgraduate,Arts,Khan Academy,Tablet,Hybrid,15-02-2023,1.65,12,6,21.64,3
+598,China,43,Female,Professional,Engineering,Udacity,Desktop,Self-Paced,05-11-2023,4.16,11,8,30.5,2
+599,UK,17,Other,Postgraduate,Arts,YouTube Learning,Laptop,Hybrid,05-08-2023,3.88,13,10,84.88,4
+600,UK,33,Female,Professional,Computer Science,Khan Academy,Tablet,Self-Paced,18-12-2023,5.62,16,10,77.09,5
+601,France,18,Other,High School,Computer Science,Udacity,Mobile,Hybrid,07-03-2023,2.15,7,8,74.75,4
+602,France,20,Other,High School,Computer Science,YouTube Learning,Desktop,Self-Paced,06-08-2023,3.06,18,4,53.04,3
+603,Australia,44,Other,Professional,Medicine,edX,Tablet,Self-Paced,04-04-2023,0.75,13,4,87.43,3
+604,Pakistan,49,Male,High School,Arts,Coursera,Mobile,Self-Paced,19-04-2023,4.61,19,4,34.81,1
+605,Australia,38,Other,Professional,Engineering,Coursera,Laptop,Self-Paced,02-12-2023,4.3,19,7,58.17,3
+606,China,24,Other,Undergraduate,Arts,YouTube Learning,Laptop,Self-Paced,08-01-2023,4.99,6,0,35.26,2
+607,Canada,24,Other,Professional,Arts,Khan Academy,Mobile,Instructor-Led,04-06-2023,1.31,13,0,81.58,1
+608,USA,21,Other,Professional,Arts,Khan Academy,Tablet,Self-Paced,27-10-2023,2.12,12,0,39.41,3
+609,Germany,18,Other,High School,Arts,Udacity,Tablet,Hybrid,07-09-2023,3.32,19,10,51.97,4
+610,Australia,37,Female,Professional,Computer Science,Udemy,Tablet,Hybrid,02-02-2023,4.07,15,1,41.43,4
+611,Brazil,36,Other,Professional,Business,edX,Desktop,Instructor-Led,09-04-2023,2.91,16,3,57.54,5
+612,Germany,33,Other,High School,Data Science,Khan Academy,Laptop,Self-Paced,11-12-2023,2.48,15,2,72.2,5
+613,Germany,28,Other,High School,Computer Science,edX,Tablet,Instructor-Led,13-04-2023,3.21,13,7,32.51,3
+614,India,42,Male,Undergraduate,Computer Science,Udacity,Laptop,Instructor-Led,13-12-2023,5.05,16,0,32.69,1
+615,Canada,47,Other,High School,Data Science,Coursera,Desktop,Instructor-Led,13-05-2023,4.82,1,8,99.49,3
+616,USA,47,Male,Undergraduate,Data Science,Coursera,Laptop,Instructor-Led,26-02-2023,4.8,19,1,97.97,5
+617,Canada,38,Female,Undergraduate,Computer Science,Udemy,Desktop,Instructor-Led,22-03-2023,4.39,16,7,78.27,1
+618,Canada,20,Female,Postgraduate,Data Science,Khan Academy,Tablet,Hybrid,04-01-2023,4.95,10,4,39.63,5
+619,Canada,42,Female,Professional,Arts,Udacity,Tablet,Self-Paced,07-12-2023,4.64,16,6,39.64,2
+620,India,35,Female,Undergraduate,Arts,Coursera,Desktop,Self-Paced,15-08-2023,0.55,16,1,31.65,1
+621,France,41,Female,Postgraduate,Data Science,YouTube Learning,Tablet,Instructor-Led,05-12-2023,1.33,18,0,93.8,5
+622,China,28,Other,Professional,Data Science,edX,Desktop,Self-Paced,05-01-2023,5.45,19,2,86.16,4
+623,Japan,33,Male,High School,Medicine,Udacity,Tablet,Hybrid,04-06-2023,3.46,12,2,26.74,5
+624,France,30,Female,Professional,Medicine,Coursera,Mobile,Instructor-Led,24-06-2023,1.38,0,8,80.56,5
+625,China,34,Other,High School,Arts,edX,Laptop,Hybrid,13-05-2023,2.45,1,10,70.16,1
+626,Australia,29,Female,Postgraduate,Engineering,YouTube Learning,Laptop,Hybrid,25-10-2023,5.42,20,10,65.25,5
+627,Germany,38,Female,High School,Business,YouTube Learning,Desktop,Instructor-Led,13-07-2023,1.86,10,8,61.57,5
+628,China,19,Female,Professional,Medicine,Udacity,Desktop,Instructor-Led,11-02-2023,2.84,4,7,27.38,2
+629,Canada,24,Other,Undergraduate,Arts,YouTube Learning,Desktop,Self-Paced,27-10-2023,2.83,14,7,59.91,4
+630,USA,25,Other,Postgraduate,Computer Science,Udacity,Desktop,Self-Paced,27-12-2023,3.41,6,7,61.05,4
+631,India,34,Female,Postgraduate,Engineering,Khan Academy,Mobile,Self-Paced,03-03-2023,2.09,16,2,49.57,1
+632,Canada,46,Male,High School,Medicine,edX,Mobile,Self-Paced,14-03-2023,2.82,9,4,82.7,2
+633,China,23,Male,Professional,Arts,YouTube Learning,Desktop,Self-Paced,02-08-2023,2.2,14,5,58.49,4
+634,Germany,40,Female,High School,Data Science,Khan Academy,Tablet,Hybrid,16-06-2023,3.94,19,6,27.15,4
+635,Japan,22,Other,High School,Business,Udacity,Mobile,Hybrid,15-02-2023,4.39,18,10,89.28,3
+636,Canada,16,Female,Undergraduate,Business,YouTube Learning,Desktop,Self-Paced,25-09-2023,3.12,0,1,35.15,5
+637,India,42,Male,Professional,Computer Science,Udacity,Tablet,Instructor-Led,01-10-2023,2.71,1,7,68.55,1
+638,Canada,26,Female,High School,Business,edX,Desktop,Hybrid,12-05-2023,5.89,17,2,27.28,3
+639,France,39,Male,Postgraduate,Business,Khan Academy,Tablet,Instructor-Led,28-03-2023,5.79,5,0,24.71,1
+640,UAE,30,Female,Professional,Computer Science,edX,Mobile,Instructor-Led,12-07-2023,5.45,1,3,95.33,2
+641,USA,32,Other,High School,Business,Udacity,Laptop,Instructor-Led,26-08-2023,0.86,0,6,64.25,2
+642,UAE,24,Female,Undergraduate,Business,Udacity,Desktop,Hybrid,18-10-2023,0.96,20,8,52.54,2
+643,USA,18,Female,Postgraduate,Medicine,edX,Desktop,Instructor-Led,20-08-2023,4.97,19,4,23.34,2
+644,South Africa,49,Other,High School,Engineering,Coursera,Desktop,Hybrid,20-11-2023,5.12,9,0,37.02,2
+645,Australia,47,Female,Postgraduate,Data Science,edX,Desktop,Instructor-Led,04-03-2023,4.49,8,6,86.44,2
+646,India,16,Other,Undergraduate,Data Science,Coursera,Desktop,Self-Paced,06-05-2023,2.27,6,7,72.98,5
+647,UK,19,Other,High School,Data Science,Khan Academy,Mobile,Instructor-Led,05-01-2023,2.77,15,6,73.82,5
+648,China,38,Male,Professional,Computer Science,Udemy,Mobile,Instructor-Led,12-07-2023,2.47,5,0,86.2,1
+649,UAE,29,Male,Professional,Engineering,Coursera,Tablet,Instructor-Led,15-12-2023,2.47,2,9,93.71,3
+650,UK,32,Other,Professional,Business,Udacity,Laptop,Hybrid,27-12-2023,1.65,6,10,76.56,4
+651,Canada,19,Male,Postgraduate,Medicine,Udemy,Tablet,Self-Paced,17-10-2023,3.82,5,1,73.77,5
+652,Brazil,50,Female,High School,Arts,YouTube Learning,Mobile,Instructor-Led,14-12-2023,5.83,17,9,21.85,3
+653,China,46,Female,High School,Data Science,Udemy,Mobile,Instructor-Led,10-08-2023,2.74,3,10,87.55,5
+654,UK,16,Other,Undergraduate,Data Science,Khan Academy,Mobile,Self-Paced,04-08-2023,2.24,12,3,62.59,3
+655,USA,45,Female,High School,Medicine,YouTube Learning,Tablet,Instructor-Led,11-04-2023,2.21,20,10,33.16,1
+656,Japan,30,Male,Professional,Computer Science,YouTube Learning,Desktop,Hybrid,07-05-2023,1.81,10,0,28.63,3
+657,South Africa,19,Male,High School,Arts,Coursera,Tablet,Hybrid,05-03-2023,0.83,1,6,26.84,3
+658,France,39,Female,High School,Medicine,Khan Academy,Laptop,Hybrid,17-11-2023,1.06,1,8,54.55,1
+659,Australia,21,Female,High School,Arts,Udacity,Tablet,Hybrid,04-12-2023,2.99,14,6,69.92,5
+660,Australia,23,Other,Postgraduate,Engineering,Khan Academy,Desktop,Hybrid,09-04-2023,0.57,2,9,28.64,2
+661,France,42,Other,Postgraduate,Engineering,Udacity,Laptop,Self-Paced,14-11-2023,1.84,1,0,55.57,2
+662,Australia,24,Male,Undergraduate,Medicine,Udacity,Mobile,Instructor-Led,29-08-2023,2.39,11,0,44.69,5
+663,Germany,45,Other,Professional,Medicine,YouTube Learning,Tablet,Hybrid,26-06-2023,1.6,6,1,35.63,3
+664,UK,44,Male,Professional,Business,Coursera,Laptop,Hybrid,17-10-2023,3.89,13,5,97.05,2
+665,Germany,40,Male,High School,Engineering,Coursera,Mobile,Instructor-Led,28-04-2023,1.67,15,5,57.32,4
+666,UAE,38,Male,High School,Business,Udemy,Tablet,Self-Paced,16-01-2023,1.28,14,3,64.38,5
+667,Canada,27,Male,Undergraduate,Engineering,Coursera,Mobile,Hybrid,23-04-2023,4.45,10,8,90.83,2
+668,France,44,Male,Postgraduate,Engineering,YouTube Learning,Laptop,Hybrid,12-03-2023,4.83,3,5,50.31,2
+669,Canada,27,Male,Professional,Data Science,edX,Tablet,Hybrid,16-11-2023,5.33,2,1,90.53,2
+670,Germany,49,Female,Undergraduate,Engineering,Udemy,Mobile,Hybrid,08-08-2023,1.85,1,9,98.16,5
+671,South Africa,20,Female,High School,Business,Udacity,Desktop,Hybrid,24-05-2023,5.18,18,7,89.83,2
+672,Japan,45,Other,Professional,Arts,edX,Desktop,Hybrid,18-09-2023,3.35,5,5,49.94,3
+673,Pakistan,28,Female,Professional,Arts,Udacity,Laptop,Instructor-Led,26-10-2023,1.64,6,7,71.98,2
+674,Japan,37,Male,High School,Arts,Udacity,Tablet,Instructor-Led,11-05-2023,1.24,2,4,64.04,4
+675,Pakistan,16,Male,Professional,Business,edX,Mobile,Instructor-Led,19-08-2023,2.75,15,5,57.4,3
+676,UAE,32,Male,High School,Computer Science,Coursera,Tablet,Self-Paced,12-02-2023,3.26,17,10,43.56,1
+677,South Africa,32,Male,Undergraduate,Data Science,YouTube Learning,Tablet,Self-Paced,07-10-2023,1.58,10,4,36.02,3
+678,UAE,15,Female,Undergraduate,Arts,Udemy,Laptop,Hybrid,03-06-2023,2.41,12,6,42.55,5
+679,India,20,Female,Undergraduate,Arts,YouTube Learning,Desktop,Self-Paced,18-04-2023,3.34,17,7,57.96,4
+680,Canada,34,Other,High School,Arts,YouTube Learning,Tablet,Instructor-Led,13-08-2023,3.57,11,2,56,5
+681,India,16,Other,High School,Business,Udemy,Tablet,Hybrid,26-04-2023,4.27,12,8,53.53,3
+682,Germany,40,Male,Professional,Business,Khan Academy,Mobile,Instructor-Led,19-11-2023,5.53,18,6,83.93,4
+683,UK,50,Male,High School,Data Science,Udacity,Desktop,Self-Paced,19-10-2023,4.01,9,1,96.96,2
+684,Germany,33,Other,High School,Arts,Coursera,Tablet,Hybrid,06-04-2023,5.51,12,4,35.92,2
+685,UK,23,Other,Professional,Arts,YouTube Learning,Mobile,Instructor-Led,06-01-2023,5.23,13,6,33.75,2
+686,Canada,34,Other,Undergraduate,Medicine,YouTube Learning,Desktop,Instructor-Led,16-04-2023,1.63,13,10,30.39,4
+687,UAE,30,Other,Postgraduate,Medicine,Khan Academy,Desktop,Instructor-Led,14-04-2023,1.28,2,6,20.6,5
+688,South Africa,34,Female,Undergraduate,Arts,Udemy,Laptop,Hybrid,22-10-2023,1,20,7,23.13,3
+689,Pakistan,17,Male,Undergraduate,Engineering,YouTube Learning,Tablet,Hybrid,10-08-2023,5.51,5,9,56.63,1
+690,UAE,50,Male,Postgraduate,Computer Science,Coursera,Tablet,Instructor-Led,04-02-2023,4.47,6,7,75.84,4
+691,UK,44,Female,Postgraduate,Data Science,Khan Academy,Laptop,Instructor-Led,19-08-2023,1.64,1,7,33.19,1
+692,China,44,Male,High School,Medicine,YouTube Learning,Laptop,Hybrid,20-01-2023,1.13,4,5,20.86,4
+693,Australia,21,Male,Postgraduate,Computer Science,Udacity,Desktop,Self-Paced,13-08-2023,5.01,5,2,31.22,1
+694,India,26,Male,High School,Data Science,Udacity,Laptop,Instructor-Led,09-02-2023,0.56,8,2,73.71,4
+695,Pakistan,34,Female,High School,Medicine,Coursera,Mobile,Instructor-Led,23-12-2023,3.99,16,10,23.82,1
+696,USA,41,Male,High School,Engineering,Udemy,Mobile,Self-Paced,14-04-2023,2.56,7,3,94.31,1
+697,Pakistan,47,Male,Postgraduate,Engineering,Udacity,Laptop,Hybrid,19-02-2023,5.07,5,2,83.75,1
+698,Germany,21,Female,Postgraduate,Business,Coursera,Desktop,Hybrid,17-04-2023,2.67,13,1,94.75,2
+699,Brazil,38,Male,High School,Business,Khan Academy,Tablet,Hybrid,11-06-2023,1.67,7,1,20.96,3
+700,France,21,Other,Postgraduate,Data Science,YouTube Learning,Desktop,Hybrid,13-09-2023,1.06,17,9,98.65,2
+701,UK,36,Male,Professional,Arts,Udacity,Laptop,Hybrid,22-12-2023,1.46,10,10,30.63,4
+702,France,30,Other,Professional,Business,Udacity,Mobile,Self-Paced,28-10-2023,0.57,0,9,76.37,1
+703,Brazil,17,Male,Professional,Data Science,edX,Laptop,Instructor-Led,12-03-2023,2.13,4,6,49.96,2
+704,UAE,16,Male,Postgraduate,Engineering,Udemy,Laptop,Hybrid,12-06-2023,4.68,16,6,71.49,3
+705,Australia,39,Other,Postgraduate,Business,Khan Academy,Mobile,Self-Paced,28-01-2023,4.16,7,10,92.53,2
+706,Canada,20,Male,Undergraduate,Business,Udacity,Mobile,Instructor-Led,09-09-2023,1.56,20,2,25.6,2
+707,Australia,30,Female,Postgraduate,Medicine,Khan Academy,Laptop,Instructor-Led,28-08-2023,4.47,7,6,44.92,2
+708,China,43,Female,Professional,Business,Khan Academy,Mobile,Instructor-Led,04-09-2023,5.85,12,6,26.4,2
+709,Canada,50,Other,Undergraduate,Engineering,Khan Academy,Desktop,Instructor-Led,07-08-2023,4.67,9,9,88.32,5
+710,Canada,45,Male,Undergraduate,Business,Coursera,Mobile,Hybrid,21-08-2023,3.59,15,1,42.66,3
+711,China,34,Other,High School,Arts,Coursera,Mobile,Instructor-Led,11-07-2023,5.59,12,5,59.32,4
+712,South Africa,46,Other,Postgraduate,Data Science,Coursera,Desktop,Instructor-Led,17-10-2023,4.7,8,5,32.99,5
+713,South Africa,24,Female,Professional,Data Science,Udemy,Tablet,Self-Paced,07-05-2023,0.69,11,10,39.39,1
+714,UAE,20,Other,Professional,Arts,YouTube Learning,Mobile,Hybrid,05-11-2023,4.14,5,0,66.27,1
+715,Japan,49,Other,Professional,Medicine,edX,Desktop,Hybrid,07-04-2023,1.41,13,4,90.08,3
+716,South Africa,28,Other,Professional,Data Science,edX,Mobile,Self-Paced,15-02-2023,3.65,11,2,28.74,3
+717,Brazil,33,Other,Professional,Business,Udemy,Tablet,Self-Paced,09-09-2023,0.88,13,8,20.13,4
+718,Australia,28,Male,Undergraduate,Computer Science,YouTube Learning,Laptop,Self-Paced,27-12-2023,3.18,16,1,30.75,4
+719,UK,25,Male,Postgraduate,Computer Science,Khan Academy,Mobile,Instructor-Led,13-05-2023,5.29,14,10,98.64,5
+720,USA,18,Female,High School,Data Science,Udacity,Mobile,Self-Paced,02-02-2023,3.72,15,7,47.37,1
+721,China,45,Female,Professional,Engineering,edX,Tablet,Instructor-Led,19-04-2023,0.54,19,8,61.79,3
+722,India,36,Male,High School,Arts,YouTube Learning,Desktop,Hybrid,03-05-2023,4.16,12,9,95.28,1
+723,India,43,Other,Professional,Medicine,Khan Academy,Laptop,Self-Paced,13-03-2023,1.18,16,4,22.05,2
+724,USA,35,Other,Professional,Business,Udacity,Desktop,Instructor-Led,23-11-2023,4.97,0,10,96.6,3
+725,South Africa,39,Female,Undergraduate,Data Science,Udemy,Mobile,Self-Paced,10-11-2023,2.42,15,10,83.52,1
+726,China,22,Female,Undergraduate,Business,Udemy,Laptop,Hybrid,12-09-2023,2.16,17,7,83.75,2
+727,Pakistan,32,Male,Postgraduate,Data Science,Khan Academy,Mobile,Hybrid,25-12-2023,2.89,0,2,27.15,3
+728,Germany,19,Other,Postgraduate,Arts,YouTube Learning,Desktop,Hybrid,11-03-2023,3.98,15,1,93.82,3
+729,France,22,Female,High School,Computer Science,Coursera,Tablet,Hybrid,25-11-2023,5.81,13,3,82.81,2
+730,Canada,35,Female,High School,Engineering,Coursera,Laptop,Instructor-Led,31-10-2023,4.6,3,9,94.98,3
+731,Australia,29,Male,Professional,Computer Science,Udacity,Desktop,Instructor-Led,05-08-2023,2.51,4,8,45.57,5
+732,Canada,33,Male,High School,Medicine,edX,Tablet,Hybrid,16-03-2023,2.13,7,7,85.29,4
+733,China,33,Other,Professional,Computer Science,edX,Laptop,Hybrid,19-12-2023,5.98,18,7,29.88,2
+734,China,40,Female,Undergraduate,Computer Science,Udacity,Desktop,Instructor-Led,18-04-2023,5.64,7,0,87.85,2
+735,Japan,33,Female,Undergraduate,Data Science,Udacity,Desktop,Self-Paced,05-08-2023,5.95,12,6,74.23,1
+736,Brazil,25,Other,Undergraduate,Arts,YouTube Learning,Desktop,Instructor-Led,09-03-2023,4.85,1,4,45.87,4
+737,India,21,Other,Undergraduate,Arts,Khan Academy,Laptop,Self-Paced,16-03-2023,4.92,6,10,36.78,1
+738,Brazil,36,Other,Professional,Business,YouTube Learning,Desktop,Self-Paced,19-02-2023,3.11,1,1,48.45,5
+739,Brazil,39,Other,High School,Arts,YouTube Learning,Desktop,Instructor-Led,18-01-2023,2.68,9,9,29.5,2
+740,UK,46,Other,Undergraduate,Computer Science,Udacity,Desktop,Instructor-Led,20-11-2023,2.52,3,1,72.26,1
+741,Brazil,42,Female,Undergraduate,Computer Science,edX,Mobile,Hybrid,22-12-2023,4.87,5,6,79.63,4
+742,Japan,48,Female,High School,Medicine,Udacity,Mobile,Self-Paced,03-10-2023,4.97,0,6,34.79,5
+743,Japan,43,Female,High School,Computer Science,Udemy,Laptop,Hybrid,04-12-2023,1.49,19,2,91.81,1
+744,Japan,34,Female,Undergraduate,Arts,YouTube Learning,Mobile,Self-Paced,24-03-2023,1.91,1,1,27.03,1
+745,China,23,Other,Professional,Data Science,edX,Tablet,Hybrid,03-06-2023,5.7,9,10,23.69,5
+746,Germany,24,Female,Undergraduate,Business,Udacity,Laptop,Hybrid,03-10-2023,4.28,1,3,60.85,1
+747,France,31,Female,Undergraduate,Arts,Khan Academy,Mobile,Instructor-Led,03-07-2023,4.51,13,1,42.19,5
+748,Brazil,32,Other,Undergraduate,Data Science,edX,Laptop,Instructor-Led,13-12-2023,4.32,17,3,54.03,1
+749,Germany,19,Female,High School,Medicine,Coursera,Desktop,Self-Paced,20-03-2023,4.83,12,0,45.31,5
+750,UAE,29,Female,High School,Computer Science,Khan Academy,Laptop,Instructor-Led,18-06-2023,2.5,10,4,71.21,2
+751,UAE,46,Male,Postgraduate,Data Science,Udacity,Tablet,Hybrid,23-02-2023,1.18,16,4,82.62,5
+752,Canada,37,Other,Professional,Arts,Udacity,Laptop,Instructor-Led,19-05-2023,5.43,5,5,68.6,4
+753,Australia,32,Male,Postgraduate,Data Science,Udemy,Desktop,Hybrid,05-01-2023,4.42,4,2,74.93,4
+754,France,42,Other,Undergraduate,Engineering,YouTube Learning,Mobile,Instructor-Led,23-08-2023,5.92,14,8,34.65,3
+755,South Africa,30,Male,Undergraduate,Medicine,Coursera,Mobile,Hybrid,28-07-2023,5.15,20,1,81.65,1
+756,South Africa,23,Female,Professional,Medicine,YouTube Learning,Mobile,Instructor-Led,27-05-2023,3.21,0,6,64.33,5
+757,South Africa,37,Male,High School,Medicine,Khan Academy,Laptop,Hybrid,08-01-2023,5.51,0,6,69.3,5
+758,India,18,Female,Professional,Arts,Udemy,Tablet,Self-Paced,26-09-2023,1.46,11,2,92.3,5
+759,France,45,Female,Postgraduate,Business,Coursera,Desktop,Self-Paced,23-06-2023,1.87,17,1,93.12,3
+760,Australia,46,Male,Postgraduate,Computer Science,Udacity,Desktop,Instructor-Led,06-06-2023,5.78,16,0,94.33,4
+761,USA,21,Female,Professional,Business,Coursera,Laptop,Instructor-Led,02-06-2023,0.53,5,6,48.31,3
+762,Pakistan,38,Female,Postgraduate,Arts,Udemy,Tablet,Self-Paced,05-03-2023,0.54,8,3,93.05,4
+763,USA,37,Other,Undergraduate,Computer Science,Udemy,Tablet,Self-Paced,13-08-2023,2.92,4,5,72.5,4
+764,China,32,Male,Professional,Arts,Udacity,Desktop,Hybrid,10-03-2023,4.59,1,2,51.56,2
+765,Canada,22,Male,High School,Business,Udemy,Tablet,Hybrid,01-01-2024,4.63,12,8,30.19,4
+766,South Africa,15,Female,Professional,Engineering,edX,Desktop,Self-Paced,07-01-2023,1.8,10,6,81.39,5
+767,France,22,Female,Undergraduate,Data Science,Khan Academy,Laptop,Instructor-Led,08-08-2023,1.34,16,2,39.82,2
+768,Germany,24,Male,High School,Business,Khan Academy,Mobile,Instructor-Led,28-12-2023,1.07,16,9,82.62,2
+769,USA,39,Female,Postgraduate,Data Science,YouTube Learning,Laptop,Self-Paced,09-04-2023,2.84,19,3,94.33,1
+770,France,22,Female,Postgraduate,Engineering,edX,Desktop,Self-Paced,22-06-2023,0.84,13,10,54.09,1
+771,Germany,33,Female,Postgraduate,Medicine,Coursera,Desktop,Self-Paced,13-06-2023,1.5,0,0,91.61,3
+772,Brazil,15,Other,Undergraduate,Engineering,edX,Tablet,Hybrid,10-05-2023,2.5,9,1,95.87,1
+773,Australia,39,Male,High School,Business,YouTube Learning,Mobile,Self-Paced,29-10-2023,2.54,20,4,62.31,2
+774,UK,19,Other,Postgraduate,Engineering,YouTube Learning,Desktop,Self-Paced,28-10-2023,5.36,6,3,97.47,4
+775,South Africa,31,Other,Postgraduate,Engineering,Khan Academy,Mobile,Instructor-Led,01-10-2023,0.74,6,6,77.66,5
+776,Australia,32,Other,Undergraduate,Engineering,Coursera,Mobile,Hybrid,04-02-2023,3.38,16,0,58.63,2
+777,Canada,43,Other,Professional,Medicine,Khan Academy,Desktop,Hybrid,08-04-2023,2.69,17,8,79.26,1
+778,South Africa,15,Other,Professional,Medicine,YouTube Learning,Tablet,Instructor-Led,20-05-2023,0.52,18,3,36.55,5
+779,USA,49,Male,Postgraduate,Computer Science,YouTube Learning,Laptop,Instructor-Led,23-04-2023,1.98,3,2,43.71,2
+780,Japan,22,Male,Postgraduate,Data Science,Udacity,Tablet,Instructor-Led,10-03-2023,4.85,20,3,41.63,2
+781,Australia,33,Female,High School,Data Science,Coursera,Tablet,Self-Paced,12-02-2023,5.36,8,2,95.71,4
+782,UK,39,Other,Postgraduate,Data Science,YouTube Learning,Laptop,Instructor-Led,24-05-2023,5.84,17,10,34.14,5
+783,China,29,Other,Professional,Engineering,Udemy,Desktop,Self-Paced,23-04-2023,1.62,20,6,45.94,2
+784,China,26,Other,Postgraduate,Computer Science,edX,Laptop,Self-Paced,11-09-2023,1.52,5,3,34.52,5
+785,Germany,44,Other,Professional,Computer Science,YouTube Learning,Laptop,Hybrid,21-07-2023,1.53,4,1,74.99,4
+786,UAE,17,Male,Undergraduate,Computer Science,edX,Laptop,Hybrid,07-01-2023,2.58,0,1,68.26,1
+787,South Africa,20,Male,Undergraduate,Arts,Udacity,Desktop,Self-Paced,04-11-2023,5.81,3,8,21.08,3
+788,Brazil,49,Male,High School,Computer Science,Coursera,Tablet,Self-Paced,07-06-2023,1.35,1,8,46.54,3
+789,Germany,42,Female,Undergraduate,Engineering,YouTube Learning,Tablet,Self-Paced,19-09-2023,2.78,0,3,90.92,1
+790,UK,29,Male,Postgraduate,Engineering,Coursera,Tablet,Self-Paced,17-12-2023,5.36,3,7,50.78,2
+791,Canada,42,Other,Postgraduate,Medicine,Udemy,Desktop,Self-Paced,04-07-2023,5.56,1,9,93.87,2
+792,France,46,Other,Postgraduate,Engineering,YouTube Learning,Mobile,Self-Paced,08-12-2023,3.94,9,5,74.97,1
+793,South Africa,45,Male,High School,Medicine,Khan Academy,Tablet,Self-Paced,18-03-2023,1.31,4,6,82.22,4
+794,China,42,Female,Professional,Medicine,YouTube Learning,Tablet,Self-Paced,16-02-2023,1.2,12,5,45.84,3
+795,Japan,46,Other,Undergraduate,Arts,Coursera,Desktop,Hybrid,01-12-2023,2.61,17,7,93.73,5
+796,India,15,Male,High School,Engineering,Udacity,Desktop,Self-Paced,23-10-2023,4.96,7,1,82.13,2
+797,Canada,50,Female,Undergraduate,Business,Udemy,Mobile,Hybrid,26-02-2023,2.42,4,4,24.77,4
+798,South Africa,42,Female,High School,Data Science,Coursera,Mobile,Instructor-Led,12-03-2023,4.33,4,6,29.38,1
+799,Germany,19,Male,Professional,Business,Udemy,Desktop,Hybrid,01-11-2023,0.67,11,2,89.64,1
+800,South Africa,36,Female,High School,Engineering,Coursera,Laptop,Self-Paced,13-03-2023,4.34,9,7,79.85,4
+801,Pakistan,42,Other,Professional,Medicine,YouTube Learning,Tablet,Hybrid,25-11-2023,4.63,16,2,22.57,1
+802,Japan,39,Male,Undergraduate,Arts,Udacity,Mobile,Self-Paced,14-09-2023,1.75,5,4,44.48,1
+803,South Africa,44,Female,Postgraduate,Data Science,YouTube Learning,Desktop,Instructor-Led,20-07-2023,4.6,17,9,34.7,1
+804,UK,21,Male,Postgraduate,Medicine,edX,Mobile,Self-Paced,26-03-2023,2.54,13,3,24.37,3
+805,UAE,34,Male,Undergraduate,Data Science,Coursera,Laptop,Instructor-Led,25-05-2023,1.09,6,9,33.02,1
+806,USA,35,Male,Postgraduate,Computer Science,edX,Tablet,Instructor-Led,13-02-2023,3.61,18,7,98.13,1
+807,India,41,Other,High School,Medicine,Udemy,Mobile,Hybrid,14-09-2023,4.64,11,2,35.59,1
+808,Canada,44,Male,High School,Data Science,Udemy,Laptop,Hybrid,15-07-2023,5.28,1,4,58.16,2
+809,Brazil,48,Female,Professional,Business,edX,Tablet,Instructor-Led,01-12-2023,4.45,16,8,31.27,5
+810,Australia,19,Male,Professional,Computer Science,Coursera,Laptop,Instructor-Led,16-11-2023,2.87,12,3,88.48,2
+811,China,35,Male,Postgraduate,Business,Coursera,Tablet,Hybrid,08-10-2023,4.89,2,7,89.4,1
+812,France,43,Other,Undergraduate,Computer Science,Udacity,Desktop,Self-Paced,06-07-2023,0.89,14,4,48.27,4
+813,China,38,Other,Postgraduate,Engineering,Coursera,Desktop,Hybrid,06-07-2023,2.71,19,10,88.72,2
+814,South Africa,30,Other,High School,Business,Coursera,Tablet,Instructor-Led,19-08-2023,5.32,1,9,41.03,1
+815,Brazil,20,Female,Professional,Arts,YouTube Learning,Desktop,Self-Paced,23-03-2023,5.2,7,6,65.61,4
+816,Pakistan,36,Male,Postgraduate,Engineering,Udacity,Desktop,Self-Paced,13-02-2023,1.1,12,6,34.42,2
+817,Canada,45,Male,Undergraduate,Engineering,Udacity,Mobile,Hybrid,26-12-2023,1.13,14,0,79.3,5
+818,USA,28,Male,Professional,Engineering,edX,Laptop,Self-Paced,14-07-2023,4.95,13,7,24.99,2
+819,Japan,28,Other,Postgraduate,Business,Coursera,Mobile,Instructor-Led,14-03-2023,2.73,9,7,25.54,4
+820,China,45,Other,Undergraduate,Data Science,Khan Academy,Tablet,Hybrid,25-06-2023,2.13,6,5,97.07,4
+821,South Africa,24,Female,Postgraduate,Computer Science,Udemy,Desktop,Self-Paced,20-10-2023,0.55,19,3,51.13,1
+822,South Africa,15,Female,Undergraduate,Data Science,Khan Academy,Mobile,Self-Paced,13-09-2023,1.12,13,4,89.14,5
+823,Pakistan,28,Female,Undergraduate,Business,YouTube Learning,Mobile,Instructor-Led,22-04-2023,1.53,17,2,79.66,5
+824,Brazil,44,Female,Professional,Engineering,edX,Desktop,Hybrid,06-07-2023,5.43,16,1,21.3,4
+825,Japan,25,Other,Professional,Arts,edX,Desktop,Hybrid,21-06-2023,1.47,13,5,29.07,2
+826,UK,16,Other,Professional,Computer Science,Khan Academy,Mobile,Hybrid,26-05-2023,5.66,3,1,76.17,1
+827,Germany,44,Other,Professional,Computer Science,Udemy,Desktop,Self-Paced,16-08-2023,4.93,9,6,60.27,2
+828,USA,38,Male,Postgraduate,Engineering,YouTube Learning,Tablet,Instructor-Led,29-06-2023,5.53,13,10,97.41,4
+829,USA,24,Female,Postgraduate,Engineering,Udemy,Desktop,Self-Paced,01-08-2023,0.52,13,0,73.86,1
+830,UAE,42,Male,Professional,Data Science,Udemy,Desktop,Instructor-Led,12-10-2023,1.56,20,6,97.88,1
+831,Brazil,40,Other,Postgraduate,Medicine,Udemy,Tablet,Self-Paced,22-09-2023,1.77,4,8,32.68,1
+832,USA,49,Male,Professional,Computer Science,YouTube Learning,Laptop,Instructor-Led,17-02-2023,2.91,20,9,27.46,2
+833,France,27,Other,Undergraduate,Data Science,Khan Academy,Tablet,Hybrid,21-11-2023,2.47,7,10,70.52,2
+834,UK,22,Female,High School,Computer Science,Udemy,Tablet,Instructor-Led,27-01-2023,5.64,20,0,42,5
+835,UK,46,Male,Professional,Computer Science,Khan Academy,Mobile,Self-Paced,03-04-2023,3.22,11,3,27.42,4
+836,Canada,34,Male,Undergraduate,Data Science,Udacity,Mobile,Self-Paced,18-12-2023,5.39,20,7,53.59,2
+837,USA,25,Other,Postgraduate,Computer Science,Udemy,Mobile,Hybrid,25-06-2023,3.16,19,9,99.5,5
+838,Germany,16,Female,Undergraduate,Business,Coursera,Laptop,Instructor-Led,12-01-2023,4.69,6,5,61.44,1
+839,China,46,Female,Professional,Business,edX,Laptop,Self-Paced,21-05-2023,5.74,11,8,58.53,3
+840,UAE,34,Male,Undergraduate,Data Science,Khan Academy,Desktop,Instructor-Led,18-12-2023,4.45,12,1,87.68,5
+841,Australia,39,Female,Undergraduate,Medicine,edX,Tablet,Hybrid,05-08-2023,1.99,10,9,67.71,1
+842,Pakistan,33,Other,Postgraduate,Arts,Coursera,Mobile,Self-Paced,02-02-2023,5.39,16,4,55.95,5
+843,Brazil,38,Female,Undergraduate,Engineering,Coursera,Mobile,Instructor-Led,15-06-2023,1.52,7,1,54.35,2
+844,Germany,50,Male,Professional,Engineering,Udacity,Laptop,Hybrid,19-12-2023,2.31,14,9,20.87,3
+845,Australia,41,Other,Professional,Engineering,edX,Laptop,Self-Paced,22-04-2023,2.03,19,10,28.23,1
+846,UK,43,Male,Postgraduate,Medicine,Khan Academy,Laptop,Hybrid,26-01-2023,3.24,8,6,84.22,1
+847,France,23,Female,High School,Medicine,Udacity,Mobile,Instructor-Led,11-01-2023,4.04,18,0,42.8,4
+848,India,37,Female,High School,Medicine,edX,Desktop,Hybrid,27-11-2023,3.08,13,4,21.3,3
+849,India,21,Male,Undergraduate,Computer Science,Coursera,Laptop,Self-Paced,25-01-2023,4.33,14,7,51.47,1
+850,Germany,38,Other,High School,Data Science,Coursera,Tablet,Self-Paced,15-06-2023,4.48,7,2,88.91,1
+851,UAE,39,Female,Undergraduate,Business,Udacity,Desktop,Self-Paced,26-02-2023,2.17,8,5,23.84,5
+852,Brazil,22,Other,Undergraduate,Medicine,Khan Academy,Desktop,Instructor-Led,06-03-2023,1.31,18,6,45.55,4
+853,South Africa,20,Female,Undergraduate,Data Science,YouTube Learning,Laptop,Hybrid,14-06-2023,3.15,2,4,81.81,3
+854,China,39,Male,Professional,Computer Science,edX,Laptop,Hybrid,09-02-2023,3.22,6,0,26.01,2
+855,Japan,21,Male,Undergraduate,Engineering,Khan Academy,Desktop,Hybrid,28-09-2023,2.22,9,7,61.11,2
+856,Canada,34,Other,High School,Business,Khan Academy,Mobile,Hybrid,20-09-2023,2.7,2,4,36.24,4
+857,China,48,Female,Postgraduate,Engineering,Coursera,Mobile,Instructor-Led,26-02-2023,5.42,5,4,39.24,1
+858,USA,43,Female,Postgraduate,Computer Science,Coursera,Desktop,Hybrid,09-08-2023,2.68,13,8,36.97,3
+859,Japan,46,Other,Professional,Computer Science,YouTube Learning,Mobile,Hybrid,05-08-2023,1.54,5,9,35.51,3
+860,France,30,Male,High School,Engineering,Udemy,Desktop,Instructor-Led,08-05-2023,1.71,1,0,96.72,5
+861,Canada,28,Female,Postgraduate,Data Science,Udacity,Tablet,Hybrid,21-07-2023,4.54,8,7,28.1,2
+862,South Africa,30,Male,Postgraduate,Data Science,Coursera,Laptop,Self-Paced,02-01-2023,3.27,19,7,27.54,3
+863,Pakistan,36,Male,Undergraduate,Engineering,Coursera,Laptop,Hybrid,20-06-2023,1.28,0,10,91.99,4
+864,Germany,45,Male,High School,Computer Science,Udacity,Tablet,Self-Paced,05-01-2023,5.83,18,0,67.52,4
+865,UAE,36,Female,Professional,Data Science,edX,Tablet,Hybrid,26-09-2023,4.65,3,1,60.25,3
+866,Japan,45,Male,Postgraduate,Data Science,Udacity,Mobile,Self-Paced,07-09-2023,3.02,11,4,40.28,3
+867,USA,30,Other,Professional,Engineering,Udemy,Mobile,Self-Paced,30-07-2023,4.13,4,5,88.5,4
+868,China,48,Male,Postgraduate,Data Science,edX,Tablet,Instructor-Led,13-07-2023,5.81,20,10,71.1,5
+869,Australia,48,Other,Postgraduate,Medicine,Coursera,Desktop,Instructor-Led,29-10-2023,5.97,9,3,53.38,1
+870,China,24,Female,Undergraduate,Medicine,edX,Laptop,Instructor-Led,18-10-2023,4.86,9,1,97.45,1
+871,Germany,33,Other,High School,Computer Science,Khan Academy,Tablet,Self-Paced,07-09-2023,4.9,0,7,43.06,1
+872,India,33,Other,Undergraduate,Computer Science,YouTube Learning,Tablet,Self-Paced,09-08-2023,5.09,1,4,48.18,2
+873,China,37,Male,Professional,Arts,Khan Academy,Mobile,Instructor-Led,11-04-2023,5.55,9,3,54.56,1
+874,UAE,23,Other,Undergraduate,Engineering,Udemy,Desktop,Hybrid,04-06-2023,1.45,13,10,67.76,3
+875,Japan,26,Female,Professional,Computer Science,Udemy,Desktop,Hybrid,13-04-2023,0.97,18,10,44.08,4
+876,Pakistan,44,Female,Professional,Arts,Coursera,Mobile,Instructor-Led,10-06-2023,4.27,11,7,60.31,3
+877,Japan,38,Male,Postgraduate,Computer Science,Khan Academy,Laptop,Instructor-Led,15-02-2023,3.88,9,3,80.47,5
+878,UK,18,Female,High School,Engineering,Udacity,Mobile,Instructor-Led,10-12-2023,4.94,16,7,20.48,1
+879,Brazil,47,Other,High School,Data Science,Udemy,Laptop,Hybrid,17-10-2023,2.32,1,1,58.52,5
+880,Brazil,34,Other,High School,Arts,Udacity,Laptop,Self-Paced,11-09-2023,5.42,20,2,30.91,3
+881,Germany,28,Male,Professional,Computer Science,Udacity,Desktop,Instructor-Led,04-02-2023,3.82,3,8,20,1
+882,Japan,31,Other,Professional,Data Science,Udacity,Mobile,Instructor-Led,29-01-2023,2.15,15,2,94.08,2
+883,South Africa,49,Male,Professional,Arts,edX,Tablet,Hybrid,16-03-2023,1.52,7,2,70.9,5
+884,South Africa,21,Female,Professional,Arts,Udemy,Mobile,Instructor-Led,21-02-2023,3.21,8,6,96.73,4
+885,Brazil,43,Male,Postgraduate,Business,Khan Academy,Desktop,Instructor-Led,23-08-2023,2.64,18,4,29.61,1
+886,South Africa,48,Female,High School,Business,YouTube Learning,Laptop,Instructor-Led,05-01-2023,2.47,16,3,98.54,3
+887,Pakistan,19,Other,Professional,Arts,Khan Academy,Laptop,Hybrid,02-12-2023,2.37,4,4,77.54,3
+888,South Africa,35,Other,Postgraduate,Medicine,Udacity,Desktop,Self-Paced,29-12-2023,4.76,16,4,94.19,2
+889,China,45,Female,Undergraduate,Data Science,Udemy,Mobile,Self-Paced,24-01-2023,4.53,7,1,22.36,1
+890,France,22,Male,High School,Arts,edX,Mobile,Self-Paced,16-07-2023,2.81,2,0,80.47,5
+891,Japan,27,Male,Postgraduate,Arts,Khan Academy,Tablet,Self-Paced,14-06-2023,2.97,4,10,28.61,5
+892,Australia,16,Other,High School,Business,Coursera,Laptop,Self-Paced,14-04-2023,2.89,16,3,79.37,1
+893,Brazil,48,Female,Undergraduate,Business,Udacity,Desktop,Hybrid,04-07-2023,3.63,2,5,81.95,2
+894,Pakistan,39,Male,High School,Business,Udacity,Tablet,Self-Paced,30-06-2023,5.45,4,1,48.52,4
+895,Germany,33,Female,Professional,Data Science,edX,Mobile,Self-Paced,02-03-2023,0.78,17,5,59.9,1
+896,France,40,Other,High School,Medicine,YouTube Learning,Mobile,Hybrid,28-05-2023,3.66,16,9,25.98,5
+897,India,41,Female,Undergraduate,Engineering,Coursera,Laptop,Self-Paced,30-08-2023,5.92,20,0,94.95,1
+898,UK,17,Female,High School,Arts,Udacity,Mobile,Hybrid,08-10-2023,2.31,1,3,85.34,4
+899,China,47,Male,Postgraduate,Arts,Khan Academy,Tablet,Self-Paced,03-09-2023,1.99,1,1,95.73,1
+900,Pakistan,16,Other,Professional,Computer Science,Khan Academy,Desktop,Hybrid,11-01-2023,0.64,6,8,94.5,5
+901,UK,38,Female,Undergraduate,Engineering,Khan Academy,Mobile,Self-Paced,06-03-2023,2.85,4,1,54.38,4
+902,USA,15,Other,Undergraduate,Computer Science,Coursera,Mobile,Self-Paced,29-04-2023,0.56,13,8,27.36,5
+903,France,23,Other,Professional,Arts,YouTube Learning,Mobile,Hybrid,13-08-2023,0.74,11,9,34.45,2
+904,Germany,43,Other,Postgraduate,Engineering,Udacity,Tablet,Hybrid,09-02-2023,5.66,6,7,26.11,3
+905,USA,37,Female,Professional,Engineering,Coursera,Laptop,Self-Paced,06-05-2023,1.97,17,8,62.15,1
+906,South Africa,24,Male,Undergraduate,Data Science,Khan Academy,Desktop,Self-Paced,24-09-2023,4.58,6,1,38.44,3
+907,France,20,Male,Postgraduate,Medicine,Khan Academy,Desktop,Self-Paced,11-01-2023,0.69,8,9,59.91,4
+908,Brazil,42,Other,High School,Data Science,edX,Mobile,Hybrid,15-07-2023,0.74,6,6,50.77,2
+909,Germany,16,Female,Professional,Arts,YouTube Learning,Mobile,Self-Paced,28-06-2023,5.51,10,4,94.98,5
+910,Pakistan,48,Female,Undergraduate,Arts,Khan Academy,Laptop,Self-Paced,11-10-2023,4.47,9,8,51.05,4
+911,UAE,49,Female,Postgraduate,Medicine,Khan Academy,Mobile,Hybrid,08-01-2023,4.25,8,1,42.46,2
+912,UK,34,Other,Postgraduate,Engineering,Udemy,Desktop,Instructor-Led,21-05-2023,4.13,20,9,48.94,1
+913,Germany,41,Male,High School,Engineering,Udacity,Tablet,Self-Paced,09-01-2023,3.07,11,7,55.19,5
+914,Canada,29,Other,Undergraduate,Business,Udacity,Mobile,Self-Paced,14-08-2023,4.71,8,4,34.38,4
+915,India,17,Other,Undergraduate,Computer Science,YouTube Learning,Tablet,Instructor-Led,28-02-2023,1.51,16,7,72.37,5
+916,Australia,30,Female,High School,Computer Science,Udacity,Desktop,Self-Paced,09-01-2023,5.22,11,8,74.27,1
+917,UK,42,Female,Undergraduate,Computer Science,edX,Tablet,Instructor-Led,19-09-2023,1.62,18,5,26.2,4
+918,Canada,38,Male,Postgraduate,Business,Udacity,Mobile,Self-Paced,28-07-2023,2.56,9,9,91.79,1
+919,Germany,39,Other,High School,Data Science,YouTube Learning,Laptop,Instructor-Led,08-11-2023,2.22,16,9,36.92,3
+920,Australia,50,Other,Professional,Medicine,YouTube Learning,Mobile,Hybrid,29-11-2023,0.93,7,9,26.28,5
+921,France,27,Other,Postgraduate,Business,edX,Laptop,Instructor-Led,27-01-2023,4.13,16,7,68.57,3
+922,South Africa,41,Female,High School,Engineering,Udacity,Mobile,Instructor-Led,29-04-2023,4.62,3,3,56.47,4
+923,Canada,49,Male,Professional,Data Science,Udacity,Laptop,Hybrid,01-12-2023,1.77,13,3,58.73,5
+924,Pakistan,47,Male,Professional,Data Science,Udemy,Laptop,Instructor-Led,14-05-2023,2.38,3,1,83.67,4
+925,Canada,17,Female,High School,Data Science,Udemy,Mobile,Self-Paced,08-01-2023,2.8,17,7,33.34,1
+926,Pakistan,50,Male,Postgraduate,Computer Science,edX,Tablet,Hybrid,21-09-2023,5.55,13,5,89.35,2
+927,China,41,Other,Professional,Data Science,Khan Academy,Tablet,Instructor-Led,08-11-2023,5.97,1,1,69.33,3
+928,Canada,15,Other,Postgraduate,Data Science,YouTube Learning,Desktop,Instructor-Led,25-12-2023,1.51,18,8,30.77,1
+929,Germany,34,Female,Postgraduate,Computer Science,Udacity,Desktop,Instructor-Led,14-06-2023,3.3,18,4,55.09,1
+930,Pakistan,48,Female,Postgraduate,Computer Science,edX,Tablet,Self-Paced,15-06-2023,4.67,4,0,50.73,2
+931,France,21,Male,Postgraduate,Business,Coursera,Laptop,Hybrid,02-03-2023,3.18,7,2,43.03,3
+932,UAE,27,Male,Professional,Computer Science,edX,Laptop,Instructor-Led,18-09-2023,0.65,1,8,80.39,5
+933,UK,22,Female,Professional,Arts,edX,Mobile,Self-Paced,20-10-2023,2.95,4,7,54.12,3
+934,South Africa,19,Female,Undergraduate,Medicine,edX,Tablet,Instructor-Led,23-05-2023,1.14,11,1,78.53,2
+935,Pakistan,21,Other,Postgraduate,Business,Udacity,Mobile,Hybrid,19-11-2023,4.2,2,5,78.84,1
+936,France,45,Male,Professional,Business,YouTube Learning,Desktop,Instructor-Led,18-11-2023,1.25,12,3,20.64,2
+937,Pakistan,19,Female,Undergraduate,Data Science,Udemy,Mobile,Instructor-Led,09-03-2023,5.32,16,3,35.89,1
+938,China,48,Other,Undergraduate,Engineering,Udemy,Tablet,Hybrid,19-12-2023,2.59,18,3,41.05,3
+939,China,33,Male,Undergraduate,Computer Science,edX,Desktop,Instructor-Led,06-09-2023,3.97,19,5,59.22,5
+940,Brazil,22,Female,Professional,Data Science,Udemy,Desktop,Instructor-Led,16-06-2023,2.84,5,7,39.79,3
+941,Germany,41,Male,Postgraduate,Engineering,YouTube Learning,Tablet,Instructor-Led,04-11-2023,1.79,9,4,52.96,5
+942,China,29,Female,High School,Engineering,Khan Academy,Desktop,Self-Paced,20-07-2023,2.84,8,0,84.72,3
+943,Australia,36,Male,High School,Data Science,Coursera,Desktop,Self-Paced,21-10-2023,3.45,20,1,90.05,5
+944,Japan,28,Female,Undergraduate,Business,Udacity,Desktop,Hybrid,27-12-2023,2.44,17,1,46.66,1
+945,Germany,50,Other,Undergraduate,Computer Science,Coursera,Mobile,Hybrid,28-04-2023,1.39,11,5,43.21,4
+946,France,16,Male,Undergraduate,Computer Science,edX,Mobile,Instructor-Led,22-02-2023,4.85,1,2,60.12,3
+947,UK,47,Other,Professional,Computer Science,Coursera,Laptop,Self-Paced,02-12-2023,5,8,1,52.06,1
+948,Pakistan,47,Other,High School,Engineering,edX,Desktop,Self-Paced,29-10-2023,1.57,19,4,83.41,3
+949,Pakistan,20,Male,Professional,Medicine,edX,Desktop,Instructor-Led,21-02-2023,4.11,15,6,41.14,3
+950,India,49,Other,High School,Arts,Udemy,Mobile,Instructor-Led,26-12-2023,1.85,0,7,62.66,4
+951,India,24,Other,High School,Computer Science,Udacity,Laptop,Self-Paced,29-04-2023,3.12,3,10,55.77,3
+952,Japan,29,Male,Professional,Engineering,Khan Academy,Tablet,Hybrid,08-09-2023,0.96,12,9,67.47,4
+953,USA,32,Other,Undergraduate,Medicine,Khan Academy,Desktop,Instructor-Led,22-06-2023,0.7,18,9,86.75,4
+954,South Africa,20,Male,Professional,Data Science,Coursera,Desktop,Self-Paced,30-11-2023,3.04,15,8,38.86,5
+955,UK,17,Female,Professional,Business,YouTube Learning,Desktop,Self-Paced,07-01-2023,4.61,5,3,32.97,4
+956,South Africa,32,Other,Postgraduate,Medicine,edX,Laptop,Self-Paced,08-10-2023,0.55,3,6,53.45,3
+957,Australia,31,Female,Professional,Business,edX,Laptop,Self-Paced,29-05-2023,1.62,19,5,61.86,5
+958,Canada,45,Male,High School,Engineering,YouTube Learning,Laptop,Self-Paced,26-09-2023,3.11,10,6,77.21,2
+959,China,25,Male,Postgraduate,Data Science,Udacity,Laptop,Instructor-Led,22-12-2023,3.02,3,0,27.51,5
+960,South Africa,34,Female,Professional,Engineering,Udacity,Laptop,Self-Paced,18-11-2023,1.56,9,6,21.13,5
+961,Australia,21,Male,Professional,Engineering,Udacity,Tablet,Hybrid,31-10-2023,4.52,8,2,32.19,3
+962,Germany,20,Other,Undergraduate,Business,Udemy,Desktop,Self-Paced,12-11-2023,3.1,5,0,73.48,2
+963,Pakistan,45,Female,Postgraduate,Medicine,Coursera,Laptop,Hybrid,15-06-2023,5.83,4,8,26.22,4
+964,Japan,35,Other,High School,Medicine,Udemy,Laptop,Hybrid,21-07-2023,2.62,15,5,50.18,3
+965,South Africa,31,Other,High School,Medicine,Khan Academy,Tablet,Self-Paced,23-05-2023,5.12,17,7,76.91,4
+966,Australia,50,Male,Professional,Engineering,Udemy,Mobile,Self-Paced,13-01-2023,5.2,11,6,89.29,2
+967,UK,38,Female,High School,Medicine,edX,Mobile,Hybrid,15-08-2023,1.57,18,4,48.88,3
+968,Australia,16,Other,Professional,Medicine,YouTube Learning,Desktop,Instructor-Led,21-05-2023,2.69,8,4,71.33,1
+969,India,16,Other,Undergraduate,Data Science,YouTube Learning,Laptop,Self-Paced,30-03-2023,5.31,17,1,57.88,1
+970,India,21,Other,Postgraduate,Business,YouTube Learning,Mobile,Instructor-Led,12-02-2023,5.15,1,7,53.57,1
+971,Japan,15,Other,Professional,Arts,YouTube Learning,Mobile,Self-Paced,11-12-2023,2.24,5,9,87.86,3
+972,China,17,Female,Undergraduate,Data Science,Udacity,Desktop,Self-Paced,09-04-2023,3.26,8,1,86,2
+973,Japan,37,Male,Postgraduate,Arts,Udacity,Mobile,Hybrid,22-11-2023,5.11,0,4,79.75,3
+974,India,16,Male,High School,Business,YouTube Learning,Tablet,Instructor-Led,26-08-2023,5.55,5,1,27.05,2
+975,South Africa,23,Female,High School,Arts,YouTube Learning,Tablet,Self-Paced,11-02-2023,5.69,9,10,90.18,2
+976,Germany,26,Female,Postgraduate,Data Science,Khan Academy,Tablet,Self-Paced,23-05-2023,2.24,7,3,31.23,3
+977,Brazil,25,Male,Professional,Business,Udacity,Laptop,Hybrid,08-09-2023,2.5,20,8,48.41,4
+978,South Africa,47,Other,Postgraduate,Computer Science,Udacity,Laptop,Instructor-Led,11-08-2023,4.96,9,3,47.75,3
+979,China,23,Female,Postgraduate,Engineering,Udacity,Desktop,Hybrid,22-04-2023,0.67,3,8,57.42,2
+980,USA,25,Female,Professional,Engineering,edX,Mobile,Self-Paced,29-10-2023,2.27,3,10,92.1,3
+981,UAE,44,Other,Professional,Data Science,Khan Academy,Desktop,Self-Paced,03-07-2023,3.07,5,0,44.5,4
+982,France,17,Male,High School,Arts,Khan Academy,Tablet,Hybrid,10-05-2023,3.81,15,10,77.87,4
+983,South Africa,48,Male,Undergraduate,Business,YouTube Learning,Tablet,Self-Paced,25-07-2023,1.4,5,4,67.45,5
+984,Canada,44,Male,Undergraduate,Business,Udemy,Tablet,Instructor-Led,16-02-2023,4.71,11,7,44.74,4
+985,Canada,50,Female,High School,Arts,Udemy,Tablet,Self-Paced,11-02-2023,5.22,13,1,34.77,2
+986,China,30,Male,Professional,Business,edX,Laptop,Instructor-Led,30-08-2023,2.67,6,7,63.99,4
+987,Japan,19,Female,Professional,Data Science,YouTube Learning,Mobile,Self-Paced,17-06-2023,5.01,13,9,91.84,4
+988,USA,40,Male,Undergraduate,Business,Khan Academy,Laptop,Self-Paced,08-11-2023,1.79,11,5,34.25,5
+989,Pakistan,24,Female,Postgraduate,Arts,YouTube Learning,Desktop,Self-Paced,19-04-2023,1.01,12,10,44.16,2
+990,UK,44,Male,Postgraduate,Data Science,YouTube Learning,Mobile,Hybrid,14-05-2023,2.82,5,6,96.68,5
+991,Japan,39,Other,Professional,Computer Science,Khan Academy,Desktop,Instructor-Led,27-07-2023,0.57,10,2,84.28,5
+992,UAE,43,Other,Postgraduate,Arts,YouTube Learning,Tablet,Hybrid,28-01-2023,1.92,20,1,44.24,5
+993,Brazil,20,Male,High School,Engineering,YouTube Learning,Tablet,Self-Paced,06-07-2023,1.48,13,8,28.93,4
+994,China,33,Male,High School,Arts,Khan Academy,Tablet,Self-Paced,21-09-2023,4.5,14,6,85.03,1
+995,UAE,16,Other,Postgraduate,Business,edX,Tablet,Instructor-Led,03-11-2023,1.89,10,10,74.91,3
+996,India,17,Other,Professional,Business,Udemy,Mobile,Hybrid,09-01-2023,2.14,1,9,55.74,1
+997,India,44,Other,Undergraduate,Data Science,Udacity,Desktop,Self-Paced,18-02-2023,1.3,15,6,30.08,3
+998,Pakistan,47,Other,High School,Engineering,YouTube Learning,Tablet,Instructor-Led,09-02-2023,0.71,19,10,46.13,1
+999,Pakistan,22,Male,Postgraduate,Engineering,Udacity,Laptop,Hybrid,25-07-2023,5.73,8,10,21.79,1
+1000,France,47,Other,High School,Medicine,Khan Academy,Laptop,Hybrid,26-01-2023,3.1,13,4,49.94,2
